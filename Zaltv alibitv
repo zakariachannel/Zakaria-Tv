@@ -1,0 +1,2222 @@
+#EXTM3U
+
+################################################### BISMILLAHIRAHMANIRRAHIM ###################################################
+
+##### INFO #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/aLBiTVijo.png" group-title="INFO",
+[
+	aLBiTV
+] GABUNG GRUP https://t.me/aLBiTV333
+http://albitv.online/siarang/surah_al_fatihah.mp3
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/aLBiTVijo.png" group-title="INFO",
+[
+	aLBiTV
+] GRATIS KODE https://t.me/kodeaLBiTV
+http://albitv.online/siarang/surah_al_fatihah.mp3
+
+##### RELIGIOUS #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mekkah.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] ALQURAN KAREEM
+http://albitv.online/siarang/aLBiTV/agama/alquran.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/rodjatv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] RODJA TV
+http://vids.rodja.tv:1935/live/rodja/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/salamtv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ahsantv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] AHSAN TV
+http://wz.insantv.net/monitor/ch8.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/alimantv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/aLBiTVijo.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] IQRAA TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/izzahtv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] IZZAH TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/aLBiTVijo.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] AL-BAHJAH TV
+https://edge.siar.us/albahjahtv/live/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/insantv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/wesaltv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ashiiltv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] ASHIIL TV
+http://wz.insantv.net/monitor/ch4.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/surautv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/muadztv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] MUADZ TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/rasyaadtv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] RASYAAD TV
+https://rasyaadtv-edge.siar.us/rasyaadtv/abr/rasyaadtv/720/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/puldapiitv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] PULDAPII TV
+http://wz.insantv.net/monitor/ch16.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/hijrahtv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] HIJRAH TV
+http://wz.insantv.net/monitor/ch9.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tawaftv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] TAWAF TV
+http://cekker.masuk.web.id/exo/playlist/tawaftv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tv9nu.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] TV9 NU
+http://cekker.masuk.web.id/exo/playlist/tv9-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvmu.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] TVMU
+http://cekker.masuk.web.id/exo/playlist/muhammadiyahtv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/muitv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] MUI TV
+http://cekker.masuk.web.id/exo/playlist/muitv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mtatv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] MTA TV
+http://cekker.masuk.web.id/exo/playlist/mtatv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mqtv.png" group-title="RELIGIOUS",
+[
+	aLBiTV
+] MQTV
+http://cekker.masuk.web.id/exo/playlist/mqtv-MasterZalogiTV.m3u8
+
+##### INDONESIA #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/indosiar.png" group-title="INDONESIA",
+[
+	aLBiTV
+] INDOSIAR
+http://cekker.masuk.web.id/exo/playlist/indosiar-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sctv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] SCTV
+http://cekker.masuk.web.id/exo/playlist/sctv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/trans7.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TRANS7
+http://cekker.masuk.web.id/exo/playlist/trans7-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/transtv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TRANS TV
+http://cekker.masuk.web.id/exo/playlist/transtv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/rtv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] RTV
+http://cekker.masuk.web.id/exo/playlist/rtv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/net.png" group-title="INDONESIA",
+[
+	aLBiTV
+] NET
+http://cekker.masuk.web.id/exo/playlist/net-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/kompastv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] KOMPAS TV
+http://cekker.masuk.web.id/exo/playlist/kompastv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/metrotv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] METRO TV
+http://cekker.masuk.web.id/exo/playlist/metrotv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/antv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] ANTV
+http://albitv.online/siarang/aLBiTV/indo/antv.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvone.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVONE
+http://albitv.online/siarang/aLBiTV/indo/tvone.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/rcti.png" group-title="INDONESIA",
+[
+	aLBiTV
+] RCTI
+http://albitv.online/siarang/aLBiTV/indo/rcti.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mnctv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] MNCTV
+http://albitv.online/siarang/aLBiTV/indo/mnctv.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/gtv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] GTV
+http://albitv.online/siarang/aLBiTV/indo/global.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/inews.png" group-title="INDONESIA",
+[
+	aLBiTV
+] INEWS
+http://albitv.online/siarang/aLBiTV/indo/inews.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cnnindo.png" group-title="INDONESIA",
+[
+	aLBiTV
+] CNN
+http://albitv.online/siarang/aLBiTV/indo/cnn.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bs.png" group-title="INDONESIA",
+[
+	aLBiTV
+] BERITA SATU
+http://albitv.online/siarang/aLBiTV/indo/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cnbcindo.png" group-title="INDONESIA",
+[
+	aLBiTV
+] CNBC
+http://albitv.online/siarang/aLBiTV/indo/cnbc.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/idx.png" group-title="INDONESIA",
+[
+	aLBiTV
+] IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/rri.png" group-title="INDONESIA",
+[
+	aLBiTV
+] RRI
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/antara.png" group-title="INDONESIA",
+[
+	aLBiTV
+] ANTARA
+http://cekker.masuk.web.id/exo/playlist/antara-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvedukasi.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TV EDUKASI
+http://cekker.masuk.web.id/exo/playlist/tvedukasi-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/insert.png" group-title="INDONESIA",
+[
+	aLBiTV
+] INSERT
+http://cekker.masuk.web.id/exo/playlist/insert-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ruangtrampil.png" group-title="INDONESIA",
+[
+	aLBiTV
+] RUANG TRAMPIL
+https://vcdnjt.useetv.com/dass/15/useeinfo/chunklist_w160702004_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/useeprime.png" group-title="INDONESIA",
+[
+	aLBiTV
+] USEE PRIME
+https://vcdnjt.useetv.com/dass/15/useeprime/chunklist_w1747993320_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/useephoto.png" group-title="INDONESIA",
+[
+	aLBiTV
+] USEE PHOTO
+https://vcdnjt.useetv.com/dass/15/useephoto/chunklist_w1724793819_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvku.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/elshinta.png" group-title="INDONESIA",
+[
+	aLBiTV
+] ELSHINTA
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/magnatv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/aLBiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ntv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] NUSANTARA TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/jowo.png" group-title="INDONESIA",
+[
+	aLBiTV
+] JOWO CHANNEL
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/aLBiTVijo.png" group-title="INDONESIA",
+[
+	aLBiTV
+] JAWAPOST
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/jaktv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] JAKTV
+https://delivery.macan.tv/stream/id_jaktv/playlist.m3u8?token=0s33p&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/balitv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] BALI TV
+https://delivery.macan.tv/stream/balitv/playlist.m3u8?token=0s33p&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/aLBiTVijo.png" group-title="INDONESIA",
+[
+	aLBiTV
+] BANDUNG TV
+http://albitv.online/siarang/aLBiTV/indo/bandungtv.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/jtv.png" group-title="INDONESIA",
+[
+	aLBiTV
+] JTV
+http://122.248.43.138:1935/ch2/myStream/aLBiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="INDONESIA",
+[
+	aLBiTV
+] TATV
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="INDONESIA",
+[
+	aLBiTV
+] ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="INDONESIA",
+[
+	aLBiTV
+] TEGAR
+http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvri.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVRI NASIONAL
+http://albitv.online/siarang/aLBiTV/indo/tvri.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvri.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVRI BUDAYA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvri.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvri.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVRI ACEH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvri.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVRI SULAWESI SELATAN
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvri.png" group-title="INDONESIA",
+[
+	aLBiTV
+] TVRI SULAWESI BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+
+##### KIDS #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/animax.png" group-title="KIDS",
+[
+	aLBiTV
+] ANIMAX
+http://cekker.masuk.web.id/exo/playlist/animax-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/aniplus.png" group-title="KIDS",
+[
+	aLBiTV
+] ANIPLUS
+http://cekker.masuk.web.id/exo/playlist/aniplus-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/babyfirst.png" group-title="KIDS",
+[
+	aLBiTV
+] BABY FIRST
+http://cekker.masuk.web.id/exo/playlist/babyfirst-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/Cbeebies.png" group-title="KIDS",
+[
+	aLBiTV
+] BBC Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cn.png" group-title="KIDS",
+[
+	aLBiTV
+] CARTOON NETWORK
+http://cekker.masuk.web.id/exo/playlist/cartoonnetwork-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mykids.png" group-title="KIDS",
+[
+	aLBiTV
+] MYKIDZ
+http://cekker.masuk.web.id/exo/playlist/mykids-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/dreamworks.png" group-title="KIDS",
+[
+	aLBiTV
+] DREAMWORKS
+http://cekker.masuk.web.id/exo/playlist/dreamworks-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/duck.png" group-title="KIDS",
+[
+	aLBiTV
+] DUCK TV
+http://cekker.masuk.web.id/exo/playlist/ducktv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/nick.png" group-title="KIDS",
+[
+	aLBiTV
+] NICK
+http://cekker.masuk.web.id/exo/playlist/nickelodeon-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/nickjr.png" group-title="KIDS",
+[
+	aLBiTV
+] NICKJR
+http://cekker.masuk.web.id/exo/playlist/nickjr-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/horee.png" group-title="KIDS",
+[
+	aLBiTV
+] HOREE
+http://cekker.masuk.web.id/exo/playlist/horee-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/duniaanak.png" group-title="KIDS",
+[
+	aLBiTV
+] DUNIA ANAK
+http://cekker.masuk.web.id/exo/playlist/duniaanak-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/davinci.png" group-title="KIDS",
+[
+	aLBiTV
+] DA VINCI LEARNING
+http://cekker.masuk.web.id/exo/playlist/davinci-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/boomerang.png" group-title="KIDS",
+[
+	aLBiTV
+] BOOMERANG
+http://cekker.masuk.web.id/exo/playlist/boomerang-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] EGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] BIG BUCK BUNNY
+https://wowzaec2demo.streamlock.net/live/bigbuckbunny/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] GONG MAX
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] JIM JAM
+http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] AKARAM KIDZ
+http://akaram.zecast.net/akaram-live/akaramkidz/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KIDS",
+[
+	aLBiTV
+] GREEK KIDS
+http://wpso.com:1936/hls/kidshd.m3u8
+
+##### MOVIES #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/hbo.png" group-title="MOVIES",
+[
+	aLBiTV
+] HBO
+http://albitv.online/siarang/aLBiTV/hbo/hbo.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/hbored.png" group-title="MOVIES",
+[
+	aLBiTV
+] HBO RED
+http://albitv.online/siarang/aLBiTV/hbo/hbored.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/hbofam.png" group-title="MOVIES",
+[
+	aLBiTV
+] HBO FAMILY
+http://albitv.online/siarang/aLBiTV/hbo/hbofam.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/hbohits.png" group-title="MOVIES",
+[
+	aLBiTV
+] HBO HITS
+http://albitv.online/siarang/aLBiTV/hbo/hbohit.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/hbosig.png" group-title="MOVIES",
+[
+	aLBiTV
+] HBO SIGNATURE
+http://albitv.online/siarang/aLBiTV/hbo/hbosig.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cinemax.png" group-title="MOVIES",
+[
+	aLBiTV
+] CINEMAX
+http://albitv.online/siarang/aLBiTV/hbo/cinemax.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/fox.png" group-title="MOVIES",
+[
+	aLBiTV
+] FOX
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/foxaction.png" group-title="MOVIES",
+[
+	aLBiTV
+] FOX ACTION
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXACTION-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/foxfam.png" group-title="MOVIES",
+[
+	aLBiTV
+] FOX FAMILY
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/foxlife.png" group-title="MOVIES",
+[
+	aLBiTV
+] FOX LIFE
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4226
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/foxmovies.png" group-title="MOVIES",
+[
+	aLBiTV
+] FOX MOVIES
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/foxcrime.png" group-title="MOVIES",
+[
+	aLBiTV
+] FOX CRIME
+http://tv.wakds.xyz:8080/Mission/mulit1222/3515
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/kix.png" group-title="MOVIES",
+[
+	aLBiTV
+] KIX
+http://cekker.masuk.web.id/exo/playlist/kix-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/thrill.png" group-title="MOVIES",
+[
+	aLBiTV
+] THRILL
+http://cekker.masuk.web.id/exo/playlist/thrill-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PCKmRVx/wo.jpg" group-title="MOVIES",
+[
+	aLBiTV
+] CINEMA WORLD
+http://cekker.masuk.web.id/exo/playlist/cinemaworld-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cm.png" group-title="MOVIES",
+[
+	aLBiTV
+] CELESTIAL MOVIES
+http://cekker.masuk.web.id/exo/playlist/celestialmovie-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ccm.png" group-title="MOVIES",
+[
+	aLBiTV
+] CCM
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/axn.png" group-title="MOVIES",
+[
+	aLBiTV
+] AXN
+http://cekker.masuk.web.id/exo/playlist/axn-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/warner.png" group-title="MOVIES",
+[
+	aLBiTV
+] WARNER TV
+http://cekker.masuk.web.id/exo/playlist/warner-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/zee.png" group-title="MOVIES",
+[
+	aLBiTV
+] ZEE BIOSKOP
+http://cekker.masuk.web.id/exo/playlist/zbioskop-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvnmovies.png" group-title="MOVIES",
+[
+	aLBiTV
+] TVN MOVIES
+http://cekker.masuk.web.id/exo/playlist/tvnmovies-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/flik.png" group-title="MOVIES",
+[
+	aLBiTV
+] FLIK
+http://cekker.masuk.web.id/exo/playlist/flik-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/galaxypremium.png" group-title="MOVIES",
+[
+	aLBiTV
+] GALAXY PREMIUM
+http://cekker.masuk.web.id/exo/playlist/galaxypremium-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/galaxy.png" group-title="MOVIES",
+[
+	aLBiTV
+] GALAXY
+http://cekker.masuk.web.id/exo/playlist/galaxy-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/imc.png" group-title="MOVIES",
+[
+	aLBiTV
+] IMC
+http://cekker.masuk.web.id/exo/playlist/imc-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/citradrama.png" group-title="MOVIES",
+[
+	aLBiTV
+] CITRA DRAMA
+http://cekker.masuk.web.id/exo/playlist/cdrama-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cbioskop.png" group-title="MOVIES",
+[
+	aLBiTV
+] CITRA BIOSKOP
+http://cekker.masuk.web.id/exo/playlist/vidio-citrabioskop-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bioskopindo.png" group-title="MOVIES",
+[
+	aLBiTV
+] BIOSKOP INDONESIA
+http://cekker.masuk.web.id/exo/playlist/bioskopindonesia-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sinemaindo.png" group-title="MOVIES",
+[
+	aLBiTV
+] SINEMA INDONESIA
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/flix.png" group-title="MOVIES",
+[
+	aLBiTV
+] &FLIX
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/prive.png" group-title="MOVIES",
+[
+	aLBiTV
+] &PRIVE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+
+##### MUSIC #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] KARAOKE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/citradangdut.png" group-title="MUSIC",
+[
+	aLBiTV
+] CITRA DANGDUT
+http://cekker.masuk.web.id/exo/playlist/citradangdut-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] POP MUSIK
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] MALEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ikonser.png" group-title="MUSIC",
+[
+	aLBiTV
+] I KONSER
+http://cekker.masuk.web.id/exo/playlist/ikonser-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/pramborstv.png" group-title="MUSIC",
+[
+	aLBiTV
+] PRAMBORS TV
+http://cekker.masuk.web.id/exo/playlist/pramborstv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] MIX MUSIC
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/03.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] RETRO
+http://89.185.253.55/retrotv/retrotvHQ1/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] XALASTRATV
+https://live.cast-control.eu:443/xalastratv/xalastratv/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] 1MUS.COM
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] CMC TV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] KRAL POP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="MUSIC",
+[
+	aLBiTV
+] MTV
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mtvlive.png" group-title="MUSIC",
+[
+	aLBiTV
+] MTV LIVE
+http://cekker.masuk.web.id/exo/playlist/mtvlive-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/channelv.png" group-title="MUSIC",
+[
+	aLBiTV
+] V CHANNEL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:23/iB3OuVaDYu/74192
+
+##### SPORTS #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ass1.png" group-title="SPORTS",
+[
+	aLBiTV
+] ASTRO SUPERSPORT 1
+http://36.37.252.114:888/Apple/OneTV-043/aLBiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ass2.png" group-title="SPORTS",
+[
+	aLBiTV
+] ASTRO SUPERSPORT 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ass3.png" group-title="SPORTS",
+[
+	aLBiTV
+] ASTRO SUPERSPORT 3
+http://36.37.252.114:888/Apple/OneTV-044/aLBiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ass4.png" group-title="SPORTS",
+[
+	aLBiTV
+] ASTRO SUPERSPORT 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] ASTRO ARENA
+http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/beinx.png" group-title="SPORTS",
+[
+	aLBiTV
+] BEIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bein1.png" group-title="SPORTS",
+[
+	aLBiTV
+] BEIN SPORTS 1 ID
+http://albitv.online/siarang/aLBiTV/olahraga/useebein1.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bein2.png" group-title="SPORTS",
+[
+	aLBiTV
+] BEIN SPORTS 2 ID
+http://albitv.online/siarang/aLBiTV/olahraga/useebein2.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bein1.png" group-title="SPORTS",
+[
+	aLBiTV
+] BEIN SPORTS 1 TH
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bein2.png" group-title="SPORTS",
+[
+	aLBiTV
+] BEIN SPORTS 2 TH
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/champion1.png" group-title="SPORTS",
+[
+	aLBiTV
+] CHAMPIONS TV 1
+http://albitv.online/siarang/aLBiTV/olahraga/useechampion1.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/champion2.png" group-title="SPORTS",
+[
+	aLBiTV
+] CHAMPIONS TV 2
+http://albitv.online/siarang/aLBiTV/olahraga/useechampion2.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/champion3.png" group-title="SPORTS",
+[
+	aLBiTV
+] CHAMPIONS TV 3
+https://home-tv.web.id/dinda/non_full_siaran.m3u8?channel=vidio-6786
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/fs1.png" group-title="SPORTS",
+[
+	aLBiTV
+] FOX SPORTS 1
+https://vcdnjt.useetv.com/dass/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/fs2.png" group-title="SPORTS",
+[
+	aLBiTV
+] FOX SPORTS 2
+https://vcdnjt.useetv.com/dass/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/fs3.png" group-title="SPORTS",
+[
+	aLBiTV
+] FOX SPORTS 3
+https://vcdnjt.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/useesports1.png" group-title="SPORTS",
+[
+	aLBiTV
+] USEE SPORTS 1
+https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/useesports2.png" group-title="SPORTS",
+[
+	aLBiTV
+] USEE SPORTS 2
+https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/optus.png" group-title="SPORTS",
+[
+	aLBiTV
+] OPTUS SPORT 1
+http://clubtv.netcoffee.id:2551/stream/channelid/889538708?ticket=7CE44137DD7647A505D1B893E1E473B5DEC6040B&profile=pass
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/optus.png" group-title="SPORTS",
+[
+	aLBiTV
+] OPTUS SPORT 2
+http://clubtv.netcoffee.id:2551/stream/channelid/1126951780?ticket=A1499AEE838BF0D8FF86B204D9A18E62DAF8AB20&profile=pass
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] EUROSPORT 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] EUROSPORT 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bt1.png" group-title="SPORTS",
+[
+	aLBiTV
+] BT SPORT 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bt2.png" group-title="SPORTS",
+[
+	aLBiTV
+] BT SPORT 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tpf1.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE PREMIER 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tpf2.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE PREMIER 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tpf3.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE PREMIER 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tpf4.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE PREMIER 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tpf5.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE PREMIER 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/true1.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE SPORTS 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/true2.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE SPORTS 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/true3.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE SPORTS 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/true4.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE SPORTS 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/true5.png" group-title="SPORTS",
+[
+	aLBiTV
+] TRUE SPORTS 5
+https://www.livedoomovies.com/02_2sporthd5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sporttv1.png" group-title="SPORTS",
+[
+	aLBiTV
+] SPORT TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sporttv2.png" group-title="SPORTS",
+[
+	aLBiTV
+] SPORT TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sporttv3.png" group-title="SPORTS",
+[
+	aLBiTV
+] SPORT TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sporttv4.png" group-title="SPORTS",
+[
+	aLBiTV
+] SPORT TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sporttv5.png" group-title="SPORTS",
+[
+	aLBiTV
+] SPORT TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+ DUBAI RACING
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/dubaisports1.png" group-title="SPORTS",
+ DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/dubaisports2.png" group-title="SPORTS",
+ DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/dubaisports3.png" group-title="SPORTS",
+ DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/adsports1.png" group-title="SPORTS",
+ AD SPORTS 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/adsports2.png" group-title="SPORTS",
+ AD SPORTS 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/adsports3.png" group-title="SPORTS",
+ AD SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/adsports4.png" group-title="SPORTS",
+ AD SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Dw17mfq/al1.png",
+[
+	aLBiTV
+] AL KASS SPORTS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/q0jP8zZ/al2.png",
+[
+	aLBiTV
+] AL KASS SPORTS 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/23FKcS5/al3.png",
+[
+	aLBiTV
+] AL KASS SPORTS 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Jdj7vgC/al4.png",
+[
+	aLBiTV
+] AL KASS SPORTS 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/rx3QGF8/al5.png",
+[
+	aLBiTV
+] AL KASS SPORTS 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] SPOTV 1
+http://121.159.183.222:9981/stream/channelid/2065308481
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] SPOTV 2
+http://121.159.183.222:9981/stream/channelid/2073395174
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] EDGE SPORTS
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] TEN SPORTS
+http://mytv.fun:8080/q25582cjwk/x1w932auxn/5433
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] PREMIER SPORT
+http://159.69.66.114:8080/premiersporthd/mpegts
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] OLYMPIC CHANNEL
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] CCTV 5
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8?checkedby
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] PTV SPORTS
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mola.png" group-title="SPORTS",
+[
+	aLBiTV
+] MOLA TV FREE
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?hdnts=st=1605741431~exp=1605741551~acl=/i/*~hmac=95f9c6def381fbc692ea3b9167861e470dec873eb182beddc15a6ca315f58907
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/golf.png" group-title="SPORTS",
+[
+	aLBiTV
+] GOLF
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/nba.png" group-title="SPORTS",
+[
+	aLBiTV
+] NBA
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] TENNIS 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] TENNIS 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/ufc.png" group-title="SPORTS",
+[
+	aLBiTV
+] UFC
+https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] WWE
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/fight.png" group-title="SPORTS",
+[
+	aLBiTV
+] FIGHT SPORT
+http://clubtv.netcoffee.id:2551/stream/channelid/1368673585?ticket=52A1E8B23C3E039E7CF64717342870E15891577D&profile=pass
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/rc.png" group-title="SPORTS",
+[
+	aLBiTV
+] RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby aLBi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pIOBbqT.png" group-title="SPORTS",
+[
+	aLBiTV
+] FISHING TV
+http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/juara.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/pptv.png" group-title="SPORTS",
+[
+	aLBiTV
+] PPTV
+http://183.182.100.184/live/pptvthai/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] CHELSEA TV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] LIVERPOOL TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/real.png" group-title="SPORTS",
+[
+	aLBiTV
+] REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] BAYERN MUNCHEN TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] SPORT ONE
+http://103.130.186.138:8800/oxygenplay/sportone/index.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/rtm.png" group-title="SPORTS",
+[
+	aLBiTV
+] RTM SPORTS
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/egg.png" group-title="SPORTS",
+[
+	aLBiTV
+] EGG NETWORK
+http://iptvtree.net:8080/13354/27c12697/157484
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="SPORTS",
+[
+	aLBiTV
+] GNIX SPORTS
+http://iptvtree.net:8080/12682/12bb8cc4/174698
+
+##### KNOWLEDGE #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/nasatv.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/natgeo.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] NATGEO
+http://cekker.masuk.web.id/exo/playlist/natgeo-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/natgeowild.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] NAT GEO WILD
+http://cekker.masuk.web.id/exo/playlist/natgeowild-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/natgeopeople.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] NAT GEO PEOPLE
+http://cekker.masuk.web.id/exo/playlist/natgeopeople-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/crimeinvestigation.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] CRIME INVESTIGATION
+https://delivery.macan.tv/stream/crimeinvestigation/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/animalplanet.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] ANIMAL PLANET
+https://delivery.macan.tv/stream/id_animalplanet/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/discovery.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] DISCOVERY CHANNEL
+http://cekker.masuk.web.id/exo/playlist/disco-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/lingua.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] LINGUA
+http://cekker.masuk.web.id/exo/playlist/lingua-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/afc.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] AFN
+http://cekker.masuk.web.id/exo/playlist/afc-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/hgtv.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] HGTV
+http://cekker.masuk.web.id/exo/playlist/hgtv-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/history.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] HISTORY
+http://cekker.masuk.web.id/exo/playlist/history-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] TRAVEL CHANNEL
+http://5.135.92.133:52841/out/u/395_2.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cgtn.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] CGTN Documentary
+https://vcdnjt.useetv.com/dass/14/cgtndocumentary/chunklist_w730854397_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] TRING WORLD
+http://5.135.92.133:52841/out/u/408_2.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] TRING PLANET
+http://5.135.92.133:52841/out/u/458_2.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] TRING HISTORY
+http://5.135.92.133:52841/out/u/456_2.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bbcearth.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] BBC EARTH
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/outdoor.png" group-title="KNOWLEDGE",
+[
+	aLBiTV
+] OUTDOOR CHANNEL
+https://vcdnjt.useetv.com/dass/14/outdoor/chunklist_w108040563_b944100_sleng.m3u8
+
+##### ENTERTAINMENT #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/bbclifestyle.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] BBC LIFESTYLE
+https://delivery.macan.tv/stream/bbc_lifestyle/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/arirang.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] ARIRANG
+https://delivery.macan.tv/stream/arirang/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/nhkworld.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] NHK WORLD
+https://delivery.macan.tv/stream/id_nhkworld/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/lifetime.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] LIFETIME
+https://delivery.macan.tv/stream/lifetime/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/wakuwaku.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] WAKU2 JAPAN
+https://delivery.macan.tv/stream/wakuwaku/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sgem.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] SGEM
+https://delivery.macan.tv/stream/id_gem/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/sone.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] SONE
+https://delivery.macan.tv/stream/sonyone/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/kplus.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] K+
+https://delivery.macan.tv/stream/kplus/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/blueantentertainment.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] BLUE ANT ENTERTAINMENT
+https://delivery.macan.tv/stream/blue_ant_entertainment/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/blueantextreme.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] BLUE ANT EXTREME
+https://delivery.macan.tv/stream/blue_ant_extreme/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/dunialain.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] DUNIA LAIN
+https://edgejt6.useetv.com/joss/14/dunialain/chunklist_w5947292_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/nhkpremium.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] NHK WORLD PREMIUM
+http://clubtv.netcoffee.id:2551/stream/channelid/1757567486?ticket=018A6AC2476A33376961272B6DE9B20F5B5DC74C&profile=pass
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/mola.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] MOLA TV FREE
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?hdnts=st=1605741518~exp=1605741638~acl=/i/*~hmac=d2b8627c173b024e0ee2438443625d4061fc9d0580c0359416ea67fdf3e9c66d
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tv5monde.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] TV5 MONDE
+https://vcdnjt.useetv.com/dass/14/tv5monde/chunklist_w1249603055_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/cctv4.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] CCTV4
+https://vcdnjt.useetv.com/dass/14/cctv4/chunklist_w1826475040_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/redetv.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] REDE TV
+https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tlc.png" group-title="ENTERTAINMENT",
+[
+	aLBiTV
+] TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+##### CAMPUR #####
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astroawani.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO AWANI
+https://delivery.macan.tv/stream/astro_awani/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astroprima.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO PRIMA
+https://delivery.macan.tv/stream/astro_prima/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astrooasis.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO OASIS
+https://delivery.macan.tv/stream/astro_oasis/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astrowarna.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO WARNA
+https://delivery.macan.tv/stream/astro_warna/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astroceria.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO CERIA
+https://delivery.macan.tv/stream/astro_ceria/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astroria.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO RIA
+https://delivery.macan.tv/stream/astro_ria/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astronaura.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO NAURA
+https://delivery.macan.tv/stream/astro_naura/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astrorania.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO RANIA
+https://delivery.macan.tv/stream/astro_rania/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/astroaura.png" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO AURA
+https://delivery.macan.tv/stream/astro_aura/playlist.m3u8?token=smm1j&v=20200807
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] ASTRO AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] BOO
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] HELLO
+https://fvtv.mywire.org/juara/9uhgasgstp-bfxkgv0t8s.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] BERNAMA
+https://fvtv.mywire.org/juara/taczjrxyg8-0wcjumch0k.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] DRAMA SANGAT
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] TV IKIM
+http://edge.vediostream.com/abr/tvikim/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] TV3
+http://c2.dcba.club:8880/bymagg73/73737373/1732
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] TV8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] BERITA RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1343761972_b2736000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/kbsworld.png" group-title="CAMPUR",
+[
+	aLBiTV
+] KBS WORLD
+https://delivery.macan.tv/stream/kbs_world/juara.m3u8?token=rvsx2&v=20200807
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/tvn.png" group-title="CAMPUR",
+[
+	aLBiTV
+] TVN
+http://albitv.online/siarang/aLBiTV/campur/tvn.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] SBS STAR
+https://streaming-a-802.cdn.nextologies.com/SBS_18/juara.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] SBS PLUS
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] SBS TV
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] RUSSIA TODAY
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] PHOENIX CHINESE
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] DAAI TV
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] DW TV ASIA
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] FRANCE 24
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] VOA
+
+#EXTINF:-1 tvg-logo="http://albitv.online/gambara/333.jpg" group-title="CAMPUR",
+[
+	aLBiTV
+] PRIME CANADA
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",
+[
+	aLBiTV
+] ANIMAX JAPAN
+https://hlstw.ihome.tokyo/live/cs25.stream/juara.m3u8?wowzasessionid=1418677106
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Logo_asahi.png",
+[
+	aLBiTV
+] BS ASAHI
+http://203.162.235.41:16914
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png",
+[
+	aLBiTV
+] BS FUJI
+http://203.162.235.41:16911
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png",
+[
+	aLBiTV
+] BS NTV
+http://203.162.235.41:16912
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg",
+[
+	aLBiTV
+] BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg",
+[
+	aLBiTV
+] BS TOKYO
+http://203.162.235.41:16915
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png",
+[
+	aLBiTV
+] CGN JAPAN
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/juara.m3u8
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",
+[
+	aLBiTV
+] FUJI TV
+http://203.162.235.41:16904
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",
+[
+	aLBiTV
+] MX LIVE
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png",
+[
+	aLBiTV
+] NHK
+http://203.162.235.41:16903
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg",
+[
+	aLBiTV
+] NHK BS PREMIUM
+http://203.162.235.41:16910
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",
+[
+	aLBiTV
+] NHK E TV
+http://203.162.235.41:16901
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png",
+[
+	aLBiTV
+] NIPPON TV
+http://203.162.235.41:16905
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg",
+[
+	aLBiTV
+] NTV NEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",
+[
+	aLBiTV
+] TBS TV
+http://203.162.235.41:16907
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
+[
+	aLBiTV
+] TOKYO MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
+[
+	aLBiTV
+] TOKYO MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",
+[
+	aLBiTV
+] TV ASAHI
+http://203.162.235.41:16906
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png",
+[
+	aLBiTV
+] TV TOKYO
+http://203.162.235.41:16908
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",
+[
+	aLBiTV
+] WEATHER NEWS JAPAN
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="CAMPUR" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png",
+[
+	aLBiTV
+] WOWOW CINEMA
+http://203.162.235.41:16916
+
+##### VOD INDONESIA #####
+#EXTINF:-1 tvg-logo="https://zaltv.com/logo.png" group-title="FILM INDONESIA",
+ NIKAH YUK (2020)
+https://da.gd/aLBi503
+#EXTINF:-1 tvg-logo="https://zaltv.com/logo.png" group-title="FILM INDONESIA",
+ MENDADAK KAYA (2019)
+https://m3u-editor.com/serve/7da32b60-e999-11ea-bd9b-6102d538004b/92718665
+#EXTINF:-1 tvg-logo="https://zaltv.com/logo.png" group-title="FILM INDONESIA",
+ INSYA ALLAH SAH 2 (2018)
+http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:group-title="FILM INDONESIA",
+GURU-GURU GOKIL
+https://da.gd/aLBi501
+#EXTINF:group-title="FILM INDONESIA",
+TOKO BARANG MANTAN
+https://da.gd/aLBi502
+#EXTINF:group-title="FILM INDONESIA",
+RUMPUT TETANGGA
+https://da.gd/aLBi504
+#EXTINF:group-title="FILM INDONESIA",
+ABRACADABA
+https://da.gd/aLBi505
+#EXTINF:group-title="FILM INDONESIA",
+SKAKMAT (2015)
+https://da.gd/aLBi518
+#EXTINF:group-title="FILM INDONESIA",
+HABIBI AINUN 3
+https://da.gd/aLBi519
+#EXTINF:group-title="FILM INDONESIA",
+KENTUT
+https://da.gd/aLBi520
+#EXTINF:group-title="FILM INDONESIA",
+IDENTITAS
+https://da.gd/aLBi521
+#EXTINF:group-title="FILM INDONESIA",
+MAGIC HOUR
+https://da.gd/aLBi522
+#EXTINF:group-title="FILM INDONESIA",
+WIRO SABLENG 212 (2018)
+https://da.gd/aLBi523
+#EXTINF:group-title="FILM INDONESIA",
+CINTA ITU BUTA (2019)
+https://da.gd/aLBi524
+#EXTINF:group-title="FILM INDONESIA",
+ HANUM & RANGGA: FAITH & THE CITY (2018)
+http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ ARINI (2018)
+http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ BENYAMIN BIANG KEROK (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ BODYGUARD UGAL-UGALAN (2018)
+http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Warkop DKI: Pintar Pintar Bodoh (1980)
+http://srv29.nf21.net/files/15-2019-10-09-8e76b24e377fc2f92fa285524b10d6b1.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Warkop DKI: Maju Kena Mundur Kena (1983)
+http://srv29.nf21.net/files/15-2019-10-09-3659d298fa9b29e16db0339cb997ac95.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Warkop DKI: Itu Bisa Diatur (1984)
+http://srv29.nf21.net/files/15-2019-10-09-14bea8bdae274c3a922f7d29c58d8d73.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Warkop DKI: Tahu Diri Dong (1984)
+http://srv29.nf21.net/files/15-2019-10-09-5800651e161619b8165734c584181e76.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Warkop DKI: Kesempatan Dalam Kesempitan (1985)
+http://srv29.nf21.net/files/15-2019-10-09-38faca9819e03a23f4667e72a9412629.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Warkop DKI: Gantian Dong (1985)
+http://srv29.nf21.net/files/15-2019-10-09-9e09061a2b64e714ba164bcd19d42a34.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Warkop DKI: Pencet Sana Pencet Sini (1994)
+https://www.googleapis.com/drive/v3/files/1ufNonpnbX0W9hGgUqi0yjsvjR9_xW5o-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:group-title="FILM INDONESIA",
+ EL (2018)
+http://srv24.nf21.net:80/files/11-2018-11-13-600d1e720909d395b7ec5965691e93f0.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Perjanjian Dengan Iblis (2019)
+https://hls.kotaksilver.casa/572088/720_968/juara.m3u8?r=720p
+#EXTINF:group-title="FILM INDONESIA",
+ Keluarga Cemara (2019)
+https://hls.kotaksilver.casa/566100/720_656/juara.m3u8?r=720p
+#EXTINF:group-title="FILM INDONESIA",
+ Valentine (2019)
+https://hls.kotaksilver.casa/586553/480_917/juara.m3u8?r=480p
+#EXTINF:group-title="FILM INDONESIA",
+ Pocong The Origin (2019)
+https://hls.kotaksilver.casa/591415/720_512/juara.m3u8?r=720p
+#EXTINF:group-title="FILM INDONESIA",
+ Sunyi (2019)
+https://hls.kotaksilver.casa/584134/720_465/juara.m3u8?r=720p
+#EXTINF:group-title="FILM INDONESIA",
+ Mati Anak (2019)
+https://hls.kotaksilver.casa/584131/720_665/juara.m3u8?r=720p
+#EXTINF:group-title="FILM INDONESIA",
+ Yowis Ben 2 (2019)
+https://hls.kotaksilver.casa/579955/480_575/juara.m3u8?r=480p
+#EXTINF:group-title="FILM INDONESIA",
+ Dilan 1991 (2019)
+https://hls.kotaksilver.casa/577970/720_312/juara.m3u8?r=720p
+#EXTINF:group-title="FILM INDONESIA",
+ Orang Kaya Baru (2019)
+https://hls.kotaksilver.casa/554733/720_161/juara.m3u8?r=720p
+#EXTINF:group-title="FILM INDONESIA",
+ Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+#EXTINF:group-title="FILM INDONESIA",
+ Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+#EXTINF:group-title="FILM INDONESIA",
+ Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+#EXTINF:group-title="FILM INDONESIA",
+ Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+#EXTINF:group-title="FILM INDONESIA",
+ Suzanna: Bernafas Dalam Kubur
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
+#EXTINF:group-title="FILM INDONESIA",
+ MATA BATIN 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
+#EXTINF:group-title="FILM INDONESIA",
+ Terbang: Menembus Langit (2018)
+http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ London Love Story 3 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ My Stupid Bos (2016)
+http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ REVAN & REINA (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Setetes Noda Manis
+https://cdn-stream.metube.id/videom3u8/IQPzJVerMxx6sVUwsoLE/720p/list.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Kuntilanak Mangkujiwo
+https://bitball.b-cdn.net/movies/2020-08/08-18-2020/Mangkujiwo.2020.WEB-DL.1080p.IDFL.info.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Janin 2020
+https://bitball.b-cdn.net/movies/disk3/2020-09/09-10-2020/Janin.2020.WEB-DL.A.IDFL.info.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Surat Dari Kematian
+https://bitball.b-cdn.net/movies/03-03-2020/03-23-2020/Surat.dari.Kematian.2020.WEB-DL.720p.FMZM.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Poconggg Juga Pocong (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Pelet Kuntilanak (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Ada Apa Dengan Pocong (2011)
+https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Kalung Jelangkung (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ 13 Cara Memanggil Setan (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ Kafan Sundel Bolong (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
+#EXTINF:group-title="FILM INDONESIA",
+NENG SEKOTENG VS PREMAN GANTENG
+https://m.vidio.com/videos/1319658/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+RAYUAN GOMBAL KUMBANG METROPOLITAN
+https://m.vidio.com/videos/1824246/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+DUDA TAMVAN JADI REBUTAN
+https://m.vidio.com/videos/1922780/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+INEM ASISTEN SEKSI REPOT
+https://m.vidio.com/videos/1865333/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+MY WIFE ANAK GENG MOTOR
+https://m.vidio.com/videos/1657106/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+RATU DISKON CINTANYA LIMITED EDITION
+https://m.vidio.com/videos/1685902/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+MILYADER KECE DENGAN KEARIFAN LOKAL
+https://m.vidio.com/videos/1662722/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ DIGOMBALIN MISS KECAMBAH AUTO BAPER
+https://m.vidio.com/videos/1680605/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ I Miss You Upik Abu
+https://m.vidio.com/videos/812387/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Sad Boy Mohon Doa Restu
+https://m.vidio.com/videos/1772479/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Cinta Paripurna Babang Hansip
+https://m.vidio.com/videos/1908571/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Virus Cinta Cewek Cincau
+https://m.vidio.com/videos/1893796/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Polisi Ganteng Mah Bebas
+https://m.vidio.com/videos/1907021/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Nanti Kita Cerita Tentang Pukis Nangka
+https://m.vidio.com/videos/1903032/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Sobat Ambyar Jadi Saksi Nikah Kita
+https://m.vidio.com/videos/1872381/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Setangkai Rambutan Cinta
+https://m.vidio.com/videos/1228364/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Seblak Empire Hentikan Ledakan Cinta
+https://m.vidio.com/videos/1888777/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Mengejar Cinta Siap Bosque!
+https://m.vidio.com/videos/1673681/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Cintaku Di Top Up Sampai Unlimited
+https://m.vidio.com/videos/1889354/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Mas Jawara In Your Area
+https://m.vidio.com/videos/1835963/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Jodoh Ditolak Nikah Bertindak 
+https://m.vidio.com/videos/1919623/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Dewi Bunga Episode 1
+https://m.vidio.com/videos/1900680/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ Dewi Bunga Episode 2
+https://m.vidio.com/videos/1902495/common_tokenized_juara.m3u8
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (ESOK PUASA)
+http://www.supercartube.com/media/videos/h264/138_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (DUGAAN)
+http://www.supercartube.com/media/videos/h264/139_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (NIKMAT)
+http://www.supercartube.com/media/videos/h264/140_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (TARAWIH)
+http://www.supercartube.com/media/videos/h264/141_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (ESOK RAYA)
+http://www.supercartube.com/media/videos/h264/142_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (HARI RAYA)
+http://www.supercartube.com/media/videos/h264/143_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN,
+ IPIN & APIN
+http://www.supercartube.com/media/videos/h264/196_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (JEJAK REMBO)
+http://www.supercartube.com/media/videos/h264/197_360p.mp4
+#EXTINF:group-title="FILM INDONESIA",
+ UPIN IPIN (DIRI BERSIH BADAN SIHAT)
+http://www.supercartube.com/media/videos/h264/198_360p.mp4
+#EXTINF:-1 tvg-logo="https://zaltv.com/logo.png" group-title="FILM INDONESIA",
+ UPIN IPIN (AMBIL GALAH TOLONG TUNJUKKAN)
+http://www.supercartube.com/media/videos/h264/200_360p.mp4
+#EXTINF:-1 tvg-logo="https://zaltv.com/logo.png" group-title="FILM INDONESIA",
+ UPIN IPIN (SAPY OH SAPY)
+http://www.supercartube.com/media/videos/h264/201_360p.mp4
+#EXTINF:-1 tvg-logo="https://zaltv.com/logo.png" group-title="FILM INDONESIA",
+ UPIN IPIN (KEMBARA KE PULAU HARTA KARUN!)
+http://www.supercartube.com/media/videos/h264/202_360p.mp4
+
+############# VOD CAMPUR ###############
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/6.jpg" group-title="VOD CAMPUR",
+EMMA (2020)
+https://www.googleapis.com/drive/v3/files/1qEt5nb2vX20H3sEyLxqefOpaPf6l7MB6?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/39.jpg" group-title="VOD CAMPUR",
+JOKER (2018)
+https://www.googleapis.com/drive/v3/files/1hSy4C4GNuXzkTSoynyU3rp0Tx5qoDGB9?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/331.jpg" group-title="VOD CAMPUR",
+SAMSON (2018)
+https://www.googleapis.com/drive/v3/files/1f3ye8vZoAXrnnUGcE9DAfUqBkj-CnhHG?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/612.jpg" group-title="VOD CAMPUR",
+INSIDIOUS
+https://www.googleapis.com/drive/v3/files/1rnwJUIWqcUxy9DHmRMhbgy8hjXsnQbqc?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/611.jpg" group-title="VOD CAMPUR",
+pan (2015)
+https://www.googleapis.com/drive/v3/files/1PWXauS3Ses6JxfSawlu2ZF9GWkAMnorV?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/610.jpg" group-title="VOD CAMPUR",
+whiplash (2014)
+http://srv28.nf21.net/360p/15-2019-02-15-dd28f5aee119c3b284e4e2466d59ccbf.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/608.jpg" group-title="VOD CAMPUR",
+NIGHT AT THE MUSEUM: SECRET OF THE TOMB (2014)
+https://www.googleapis.com/drive/v3/files/1Yf9t6ZBq5SziFOkfKrpLmD_2R4phB0IY?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/607.jpg" group-title="VOD CAMPUR",
+BILAL: A NEW BREED OF HERO (2014)
+https://www.googleapis.com/drive/v3/files/1L0YuM9zIgI3kaXbb38zbwZK7zBaEUb90?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/594.jpg" group-title="VOD CAMPUR",
+DADDY'S HOME (2014)
+https://www.googleapis.com/drive/v3/files/1nIuBPu9EBz--pp1wYC0zCWHfdFYX4N3h?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/593.jpg" group-title="VOD CAMPUR",
+VICTOR FRANKENSTEIN (2015)
+http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/592.jpg" group-title="VOD CAMPUR",
+RETURN OF XANDER CAGE (2017)
+http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/591.jpg" group-title="VOD CAMPUR",
+MORTAL ENGINES (2018)
+https://www.googleapis.com/drive/v3/files/1BK75mxpQP8zsCtTaXiY5XVR86eMZXJkg?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/590.jpg" group-title="VOD CAMPUR",
+FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD (2018)
+https://www.googleapis.com/drive/v3/files/1ueBcd30nR8F9-5SXRHw0_ieiuXM2ljXe?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/589.jpg" group-title="VOD CAMPUR",
+GREEN BOOK (2018)
+https://www.googleapis.com/drive/v3/files/1YPWoh4F4RmC-NHqLeFIM4bF5xHXqWgmH?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/588.jpg" group-title="VOD CAMPUR",
+MARY POPPINS RETURNS (2018)
+http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/587.jpg" group-title="VOD CAMPUR",
+SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
+http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/586.jpg" group-title="VOD CAMPUR",
+BIG HERO (2014)
+https://bitball.b-cdn.net/movies/03-03-2020/03-09-2020/Big.Hero.6.2014.1080p.UHD.BluRay.x264.DD5.1-Pahe.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/585.jpg" group-title="VOD CAMPUR",
+RALPH BREAKS THE INTERNET (2018)
+http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/574.jpg" group-title="VOD CAMPUR",
+AQUAMAN (2018)
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/573.jpg" group-title="VOD CAMPUR",
+vice (2018)
+https://www.googleapis.com/drive/v3/files/1uPZCKy8Hz9l4kHNq9l3_N3ZQdIe4p4eI?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/572.jpg" group-title="VOD CAMPUR",
+RACETIME (2019)
+http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/565.jpg" group-title="VOD CAMPUR",
+GLASS (2019
+https://www.googleapis.com/drive/v3/files/1P_xeIp-mIH1-BleYpEr-xpsh0JReP_nd?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/552.jpg" group-title="VOD CAMPUR",
+HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD (2019)
+http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/551.jpg" group-title="VOD CAMPUR",
+DESTROYER (2018)
+https://www.googleapis.com/drive/v3/files/1tgXoVweA7jhzD8MBUhErVQLWquVcsjZF?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg" group-title="VOD CAMPUR",
+DRAGON BALL SUPER: BROLY (2019)
+https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/546.jpg" group-title="VOD CAMPUR",
+BLACK PANTHER (2018)
+https://www.googleapis.com/drive/v3/files/1NOZeW1n_jLzl7H1f4HznCJDWI2O2ihZF?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/545.jpg" group-title="VOD CAMPUR",
+TAKEN 3 (2015)
+http://srv42.nf21.net/files/19-2020-07-09-8ade51002df9b68fe4348b8b6bf3c262.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/544.jpg" group-title="VOD CAMPUR",
+RESIDENT EVIL: VENDETTA (2017)
+https://www.googleapis.com/drive/v3/files/1SuRDH856ujsMR2j8FvxU_0bjSr4CS15t?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/543.jpg" group-title="VOD CAMPUR",
+THE PRODIGY (2019)
+https://www.googleapis.com/drive/v3/files/1IdHm083twks8-Hx4tmZp27rocbZ41Pq4?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/531.jpg" group-title="VOD CAMPUR",
+CRAZY RICH ASIANS (2018)
+http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/530.jpg" group-title="VOD CAMPUR",
+ESCAPE ROOM (2019)
+https://www.googleapis.com/drive/v3/files/1a-leJQXD6yUhiiLfYRr2_UuANAspb0CL?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/529.jpg" group-title="VOD CAMPUR",
+BEN-HUR (2016)
+https://www.googleapis.com/drive/v3/files/1bgIyDLi5pVUduTLuaGVYcNDb3AKHdaEw?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/527.jpg" group-title="VOD CAMPUR",
+THE MAGNIFICENT SEVEN (2016)
+http://srv36.nf21.net/files/19-2020-05-30-1f9c59e3e680fa272896f26004e0f574.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/523.jpg" group-title="VOD CAMPUR",
+BABY DRIVER (2017)
+https://www.googleapis.com/drive/v3/files/1VRGxjEy2o8T2JnUUdaAP8p1k-Vao6Yyr?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/522.jpg" group-title="VOD CAMPUR",
+RIDE ALONG 2 (2016)
+https://www.googleapis.com/drive/v3/files/1dyDqEa1c6dhRVZOsLl9JII4EYPFE9Yxt?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/521.jpg" group-title="VOD CAMPUR",
+FENCES (2016)
+https://www.googleapis.com/drive/v3/files/1UTZuGUAT9PXkLQWvp4BuVYEmJi805EPf?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/505.jpg" group-title="VOD CAMPUR",
+FINDING DORY (2016)
+https://www.googleapis.com/drive/v3/files/12Ne-XldGjsyfJgnwxy6F4B34C7z9CWYV?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/504.jpg" group-title="VOD CAMPUR",
+ROGUE ONE: A STAR WARS STORY (2016)
+https://www.googleapis.com/drive/v3/files/1PWGUA_NJVCa7fP8C-NVEob9avtco1Psu?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/503.jpg" group-title="VOD CAMPUR",
+MULAN (2020)
+https://www.googleapis.com/drive/v3/files/1Q_1c7FQ_Wfu1-Tzzt8z7Y0ivMR5gPqtO?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/500.jpg" group-title="VOD CAMPUR",
+SOUTHPAW (2015)
+https://www.googleapis.com/drive/v3/files/1UAaF_cQerSsxnWqlL4r09knQ54dvqZTY?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/499.jpg" group-title="VOD CAMPUR",
+BILL & TED FACE THE MUSIC (2020)
+https://www.googleapis.com/drive/v3/files/1Phhy0rjSt3XCtLSh0y8N0wyfDogbNbhN?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/498.jpg" group-title="VOD CAMPUR",
+UNBROKEN  (2014)
+https://www.googleapis.com/drive/v3/files/138ULN0bJjVURpAFY28LEcnYSbtM3ivtD?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/497.jpg" group-title="VOD CAMPUR",
+SULLY (2016)
+https://www.googleapis.com/drive/v3/files/1CMlsBsbTOgvQLKrxhMH7pmpL2jiiQfKI?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/496.jpg" group-title="VOD CAMPUR",
+ZOOLANDER 2 (2016)
+https://www.googleapis.com/drive/v3/files/1TOHqJvRvFRdbPj4bZC8VqnsqHDP4ry7x?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/495.jpg" group-title="VOD CAMPUR",
+ME BEFORE YOU (2016)
+https://www.googleapis.com/drive/v3/files/1u0Hko0l_B9IsSBUHX9AYNoYveiHEsdkb?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/494.jpg" group-title="VOD CAMPUR",
+THE SHALLOWS (2016)
+https://www.googleapis.com/drive/v3/files/1wM9kM4gL7lHsdMR_dAf1CrM3JWqu1ihV?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/483.jpg" group-title="VOD CAMPUR",
+WAR DOGS (2016)
+https://www.googleapis.com/drive/v3/files/1EKSFMRjZTk7EIinSorKUVdyY49QlimHe?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/481.jpg" group-title="VOD CAMPUR",
+BLAIR WITCH (2016)
+https://www.googleapis.com/drive/v3/files/10-DL5QPnbvxI0lB-LQOSTVzkjpovbijv?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/480.jpg" group-title="VOD CAMPUR",
+PATRIOTS DAY (2017)
+https://www.googleapis.com/drive/v3/files/13A_5w-z5jQJMyXYqdW-UTLLHbsyZaN5W?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/479.jpg" group-title="VOD CAMPUR",
+SUICIDE SQUAD (2016)
+https://www.googleapis.com/drive/v3/files/1kBxH8WpDTKiU1JBoJsT3ISnomp6-DcIa?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/478.jpg" group-title="VOD CAMPUR",
+THE JUNGLE BOOK (2016)
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/477.jpg" group-title="VOD CAMPUR",
+CAPTIVE STATE (2019)
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/475.jpg" group-title="VOD CAMPUR",
+COLD PURSUIT (2019)
+https://www.googleapis.com/drive/v3/files/1B6TuCgDMlJrhZG7IchzWkOwSJvn_oAoM?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/474.jpg" group-title="VOD CAMPUR",
+MAZE RUNNER: THE SCORCH TRIALS (2015)
+https://www.googleapis.com/drive/v3/files/1OXADrXNYsNwu7b271fN5DNeOngDxUasj?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/462.jpg" group-title="VOD CAMPUR",
+HOTEL MUMBAI (2019)
+https://www.googleapis.com/drive/v3/files/1zjA2HtHFux9g2YFDzK_KmNZu4D2dD7DW?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/461.jpg" group-title="VOD CAMPUR",
+CENTRAL INTELLIGENCE (2016)
+https://www.googleapis.com/drive/v3/files/1GHLVCvTS0By9Plq_xrd7OYN8ZBksqfje?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD CAMPUR",
+COLLATERAL BEAUTY (2016)
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD CAMPUR",
+MASTERMINDS (2016)
+https://www.googleapis.com/drive/v3/files/0Bxo8Gbcc3Qdxejd1YktydEgxZ3M?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/458.jpg" group-title="VOD CAMPUR",
+THE ACCOUNTANT (2016)
+https://www.googleapis.com/drive/v3/files/1AYzUnKPVV90AOSuB6cOPcfrUWPfaMTHI?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/457.jpg" group-title="VOD CAMPUR",
+DUMBO (2019)
+https://www.googleapis.com/drive/v3/files/1tW8h5pZMNJZM3cNQnVgaSJMMlVeyjvGD?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD CAMPUR",
+US (2019)
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http:////185.238.0.145:1313/uploads/video_thumb/455.jpg" group-title="VOD CAMPUR",
+LION (2017)
+https://www.googleapis.com/drive/v3/files/1lbePK_WvJl_eauHTontfa4dIp6QI9pM5?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/454.jpg" group-title="VOD CAMPUR",
+THE CONJURING 2 (2016)
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/453.jpg" group-title="VOD CAMPUR",
+THE BOY (2016)
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg" group-title="VOD CAMPUR",
+THE 5TH WAVE (2016)
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/438.jpg" group-title="VOD CAMPUR",
+MOANA (2016)
+https://www.googleapis.com/drive/v3/files/1yb9d8jhrmbj-A_aaGYKk7hoGmroY2ekL?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD CAMPUR",
+THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD CAMPUR",
+THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/436.jpg" group-title="VOD CAMPUR",
+THE AGE OF ADALINE (2015)
+https://www.googleapis.com/drive/v3/files/1O8NJfbfDG_FbzAq9qzDj9RiIm8SVxnJO?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/435.jpg" group-title="VOD CAMPUR",
+KINGSMAN: THE SECRET SERVICE (2015)
+https://www.googleapis.com/drive/v3/files/1w9w-2Hmlu_SDumVUzfeOGJWjn4PTHqMa?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/434.jpg" group-title="VOD CAMPUR",
+A MONSTER CALLS (2017)
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/433.jpg" group-title="VOD CAMPUR",
+THE BEST OF ENEMIES (2019)
+https://www.googleapis.com/drive/v3/files/1o5I0eTT-oGvywvSzTVzeU2Of1-lcrIrk?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/432.jpg" group-title="VOD CAMPUR",
+ARRIVAL (2016)
+https://www.googleapis.com/drive/v3/files/17AN04HLod-Zr4F8MRzuHbp5BEooqGe55?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/431.jpg" group-title="VOD CAMPUR",
+KUNG FU PANDA 3 (2016)
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/430.jpg" group-title="VOD CAMPUR",
+shazam (2019)
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/429.jpg" group-title="VOD CAMPUR",
+AMERICAN MADE (2017)
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/428.jpg" group-title="VOD CAMPUR",
+THE MUMMY (2017)
+https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/425.jpg" group-title="VOD CAMPUR",
+THE WATER DIVINER (2014)
+https://www.googleapis.com/drive/v3/files/1iBsQ5yLpEo6PycFz9CAONmBhuY5RjmMm?alt=media&key=AIzaSyBCE4gSg4gNZ2_86fz-LjZv-FrwNMbFHBE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/424.jpg" group-title="VOD CAMPUR",
+PENINSULA (2020)
+https://www.googleapis.com/drive/v3/files/15XS2hVAkqzvpyWFumbEaEaY3mvqxmXtI?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/411.jpg" group-title="VOD CAMPUR",
+SILENCE (2017)
+https://www.googleapis.com/drive/v3/files/1DK6wbGXtDKrg5Ww4lYK6KLOxrfWwwXuF?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/410.jpg" group-title="VOD CAMPUR",
+RISEN (2016)
+https://www.googleapis.com/drive/v3/files/1m95jF58a1MGOzJUN8yE4YRYOIRiuQI-a?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/409.jpg" group-title="VOD CAMPUR",
+STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://www.googleapis.com/drive/v3/files/1Itw7BPmhV5qHge_HCa3aRl2X7magQraR?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/407.jpg" group-title="VOD CAMPUR",
+THE SHACK (2017)
+https://www.googleapis.com/drive/v3/files/1_uwkPJlY8WbGHVdpywctfOTqq0q5MQhc?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/406.jpg" group-title="VOD CAMPUR",
+12 STRONG (2018)
+https://www.googleapis.com/drive/v3/files/1LNRVj7vNywMoWQTkd493xlPTno3rAJCr?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/478.jpg" group-title="VOD CAMPUR",
+THE JUNGLE BOOK (2016)
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/477.jpg" group-title="VOD CAMPUR",
+CAPTIVE STATE (2019)
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/475.jpg" group-title="VOD CAMPUR",
+COLD PURSUIT (2019)
+https://www.googleapis.com/drive/v3/files/1B6TuCgDMlJrhZG7IchzWkOwSJvn_oAoM?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/474.jpg" group-title="VOD CAMPUR",
+MAZE RUNNER: THE SCORCH TRIALS (2015)
+https://www.googleapis.com/drive/v3/files/1OXADrXNYsNwu7b271fN5DNeOngDxUasj?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/461.jpg" group-title="VOD CAMPUR",
+CENTRAL INTELLIGENCE (2016)
+https://www.googleapis.com/drive/v3/files/1GHLVCvTS0By9Plq_xrd7OYN8ZBksqfje?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD CAMPUR",
+COLLATERAL BEAUTY (2016)
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD CAMPUR",
+MASTERMINDS (2016)
+https://www.googleapis.com/drive/v3/files/0Bxo8Gbcc3Qdxejd1YktydEgxZ3M?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/458.jpg" group-title="VOD CAMPUR",
+THE ACCOUNTANT (2016)
+https://www.googleapis.com/drive/v3/files/1AYzUnKPVV90AOSuB6cOPcfrUWPfaMTHI?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/457.jpg" group-title="VOD CAMPUR",
+DUMBO (2019)
+https://www.googleapis.com/drive/v3/files/1tW8h5pZMNJZM3cNQnVgaSJMMlVeyjvGD?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD CAMPUR",
+US (2019)
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/455.jpg" group-title="VOD CAMPUR",
+LION (2017)
+https://www.googleapis.com/drive/v3/files/1lbePK_WvJl_eauHTontfa4dIp6QI9pM5?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/454.jpg" group-title="VOD CAMPUR",
+THE CONJURING 2 (2016)
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/453.jpg" group-title="VOD CAMPUR",
+THE BOY (2016)
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg" group-title="VOD CAMPUR",
+THE 5TH WAVE (2016)
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/438.jpg" group-title="VOD CAMPUR",
+MOANA (2016)
+https://www.googleapis.com/drive/v3/files/1yb9d8jhrmbj-A_aaGYKk7hoGmroY2ekL?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD CAMPUR",
+THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD CAMPUR",
+THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/436.jpg" group-title="VOD CAMPUR",
+THE AGE OF ADALINE (2015)
+https://www.googleapis.com/drive/v3/files/1O8NJfbfDG_FbzAq9qzDj9RiIm8SVxnJO?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/435.jpg" group-title="VOD CAMPUR",
+KINGSMAN: THE SECRET SERVICE (2015)
+https://www.googleapis.com/drive/v3/files/1w9w-2Hmlu_SDumVUzfeOGJWjn4PTHqMa?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/434.jpg" group-title="VOD CAMPUR",
+A MONSTER CALLS (2017)
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/433.jpg" group-title="VOD CAMPUR",
+THE BEST OF ENEMIES (2019)
+https://www.googleapis.com/drive/v3/files/1o5I0eTT-oGvywvSzTVzeU2Of1-lcrIrk?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/432.jpg" group-title="VOD CAMPUR",
+ARRIVAL (2016)
+https://www.googleapis.com/drive/v3/files/17AN04HLod-Zr4F8MRzuHbp5BEooqGe55?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/431.jpg" group-title="VOD CAMPUR",
+KUNG FU PANDA 3 (2016)
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/430.jpg" group-title="VOD CAMPUR",
+shazam (2019)
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/429.jpg" group-title="VOD CAMPUR",
+AMERICAN MADE (2017)
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/428.jpg" group-title="VOD CAMPUR",
+THE MUMMY (2017)
+https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/425.jpg" group-title="VOD CAMPUR",
+THE WATER DIVINER (2014)
+https://www.googleapis.com/drive/v3/files/1iBsQ5yLpEo6PycFz9CAONmBhuY5RjmMm?alt=media&key=AIzaSyBCE4gSg4gNZ2_86fz-LjZv-FrwNMbFHBE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/424.jpg" group-title="VOD CAMPUR",
+PENINSULA (2020)
+https://www.googleapis.com/drive/v3/files/15XS2hVAkqzvpyWFumbEaEaY3mvqxmXtI?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/411.jpg" group-title="VOD CAMPUR",
+SILENCE (2017)
+https://www.googleapis.com/drive/v3/files/1DK6wbGXtDKrg5Ww4lYK6KLOxrfWwwXuF?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/410.jpg" group-title="VOD CAMPUR",
+RISEN (2016)
+https://www.googleapis.com/drive/v3/files/1m95jF58a1MGOzJUN8yE4YRYOIRiuQI-a?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/409.jpg" group-title="VOD CAMPUR",
+STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://www.googleapis.com/drive/v3/files/1Itw7BPmhV5qHge_HCa3aRl2X7magQraR?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/407.jpg" group-title="VOD CAMPUR",
+THE SHACK (2017)
+https://www.googleapis.com/drive/v3/files/1_uwkPJlY8WbGHVdpywctfOTqq0q5MQhc?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/619.jpg" group-title="VOD CAMPUR",
+GOOSEBUMPS 2: HAUNTED HALLOWEEN (2018)
+https://www.googleapis.com/drive/v3/files/1y3HEZYWANDAENkmfc2fyY34uf5h4_cXt?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.
