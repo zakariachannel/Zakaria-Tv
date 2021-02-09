@@ -6,91 +6,91 @@
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",prambors
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7004
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7004
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Hardrock
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7053
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7053
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Brava
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7054
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7054
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Trax
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7055
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7055
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Cosmopolitan
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7056
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7056
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",I-Radio
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7057
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7057
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Bahana
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7091
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7091
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Delta
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7092
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7092
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Female
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7130
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7130
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Elshinta
 https://home-tv.web.id/win/dinda/playlist.m3u8?channel=vidio-7166
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Elgangga
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7169
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7169
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Elmitra
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7170
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7170
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Ardan
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7184
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7184
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",MGT
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7188
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7188
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Geronimo
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7216
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7216
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Sushi
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7218
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7218
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Dahlia
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7242
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7242
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Swaragama
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7248
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7248
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Imelda
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7281
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7281
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Swara Semarang
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7283
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7283
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Gajahmada
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7284
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7284
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Cakra
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7297
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7297
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Gen Jakarta
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7443
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7443
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Kis
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7445
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7445
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Gen Surabaya
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7446
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7446
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Mustang
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7447
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7447
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Hot
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7448
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7448
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Jak
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7449
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7449
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio Vidio.com",Most Radio
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7450
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7450
 
 
 ####### RADIO #######
@@ -978,70 +978,70 @@ http://185.238.0.145:1313/c/max/hi-hd.m3u8
 http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",INDOSIAR
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-205
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-205
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",SCTV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-204
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-204
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO", O Channel
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-206
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-206
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",AJWA TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7464
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7464
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",Daai TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6482
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6482
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",TRANS TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-733
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-733
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",TRANS7
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-734
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-734
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",MNC TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-870
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-870
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RCTI
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-665
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-665
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",GTV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-778
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-778
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",INEWS TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-5409
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5409
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=tvOne
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",METRO TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-777
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-777
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",NET TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-875
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-875
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RAJAWALI TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-1561
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-1561
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RTV
 http://albitv.online/siarang/aLBiTV/indo/rtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",MYTV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6711
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6711
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",O Shop
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6166
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6166
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",Jaktv
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-5415
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5415
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",Nusantara TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7432
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7432
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",KOMPAS TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-874
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-874
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",BERITA SATU
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6165
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6165
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",CNN INDONESIA HD
 http://albitv.online/siarang/aLBiTV/indo/cnn.m3u8
@@ -1073,13 +1073,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INDOSIAR
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-indosiar
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indosiar
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-transtv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-transtv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS7
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-trans7
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",MNC TV
 http://albitv.online/siarang/aLBiTV/indo/mnctv.m3u8
@@ -1094,55 +1094,55 @@ http://albitv.online/siarang/aLBiTV/indo/global.m3u8
 http://albitv.online/siarang/aLBiTV/indo/inews.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",SCTV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-sctv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sctv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=tvOne
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",METRO TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-metrotv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-metrotv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",NET TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-net
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-net
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RTV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-rtv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rtv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",KOMPAS TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-kompastv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kompastv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",BERITA SATU
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-beritasatu
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-beritasatu
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INSERT TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-insert
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-insert
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="NASIONAL USEETV",IDKU
 https://cdn14jtedge.useetv.com/dass/15/idku/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",ANTARA TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-antara
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-antara
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JITV 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-jitv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jitv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",MYTV
 https://cdn14jtedge.useetv.com/dass/14/mytv/.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",BALI TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-balitv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-balitv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JAK TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-jaktv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jaktv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JTV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-jtv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jtv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-tvedukasi
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvedukasi
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RRI NET
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-rrinet
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rrinet
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",ELJHON TV
 https://cdn14jtedge.useetv.com/dass/14/eljohn/chunklist_b944100_sleng_.m3u8
@@ -1154,19 +1154,19 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN INDONESIA
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-cnnindonesia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cnnindonesia
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN International
 
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNBC INDONESIA
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-cnbcindonesia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cnbcindonesia
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TVRI
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-tvri
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvri
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TVRI HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
@@ -1338,7 +1338,7 @@ http://iptvtree.net:8080/Tomas/oudx8qnnND/196459
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",DAAI TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-daaitv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-daaitv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",MTATV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
@@ -1372,7 +1372,7 @@ http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL", Dunia Lain
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-dunialain
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dunialain
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Duta TV
 http://103.76.148.203:25461/EqyGiMlzsS/xvlVrI4VzZ/36
@@ -1384,22 +1384,22 @@ https://m3u-editor.com/serve/oxy/146945361.m3u8
 https://m3u-editor.com/serve/8a4433b0/145447221.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Indihome Shopping
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-indishopping
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indishopping
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",MNC Shop
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-mncshop
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mncshop
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",DigiOne MAXstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Ruang Terampil
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useeinfo
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeinfo
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Usee Photo
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useephoto
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useephoto
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Usee Prime
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useeprime
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeprime
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",UseePrime 1
 https://cdnmdc1.useetv.com/dass/15/useeprime/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
@@ -1444,22 +1444,22 @@ http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="CITRA VIDIO.COM",Citra Dangdut (Vidio) 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6587
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6587
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="CITRA VIDIO.COM",Citra Drama (Vidio)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6401
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6401
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="CITRA VIDIO.COM",Citra Bioskop (Vidio) 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6684
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6684
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="CITRA VIDIO.COM",Citra Entertainment (Vidio) 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6402
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6402
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="CITRA VIDIO.COM",Vidio Entertainment (Vidio)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7352
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7352
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="CITRA USEETV",Citra Drama
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-cdrama
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cdrama
 
 
 
@@ -1480,34 +1480,34 @@ https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_p
 
 ###########################################################################################
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",Warner
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-warner
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-warner
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",AXN
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-axn
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-axn
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",Chinese Drama
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-chinesedrama
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-chinesedrama
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",Kix
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-kix
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kix
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",Waku Waku Japan
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-wakuwaku
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-wakuwaku
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",K+
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-kplus
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kplus
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",Sony GEM TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-sgem
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sgem
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM",Sony One
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-sone
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sone
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM", Galaxy 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-galaxy
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxy
  
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="USEETV FILM", Galaxy Premium 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-galaxypremium
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxypremium
 
 ###########################################################################################
 
@@ -1832,46 +1832,46 @@ http://60.175.115.119:1935/live/wenhua/playlist.m3u8?checkedby
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",M Kidz (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-mykids
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mykids
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",HipHip Horee (Vidio)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7052
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7052
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Baby First (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-babyfirst
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-babyfirst
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Horee (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-horee
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-horee
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Duck TV (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-ducktv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-ducktv
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Boomerang (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-boomerang
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-boomerang
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon Network (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-cartoonnetwork
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cartoonnetwork
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Dunia Anak (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-duniaanak
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-duniaanak
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Nick Junior (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-nickjr
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nickjr
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Nickelodeon (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-nickelodeon
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nickelodeon
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Da Vinci (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-davinci
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-davinci
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Dreamworks (USEETV)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-dreamworks
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dreamworks
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Zoo Moo (Vidio)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6533
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6533
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",DaVinci (Vidio)
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6549
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6549
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Nick Junior
@@ -2009,28 +2009,28 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_123_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",National Geographic 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-natgeo
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeo
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Nat Geo People 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-natgeopeople
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeopeople
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Nat Geo Wild 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-natgeowild
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeowild
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Discovery Channel 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-disco
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-disco
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",CGTN Documentary 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-cgtndocumentary
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cgtndocumentary
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Lingua 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-lingua
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-lingua
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Smithsonian (Vidio) 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6550
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6550
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Outdoor CHANNEL
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-outdoor
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-outdoor
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -3042,38 +3042,38 @@ https://cdnmdc1.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 1 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-champion1
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-champion1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 2 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-champion2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-champion2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",UseeSports 1 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useesport
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesport
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",UseeSports 2
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useesports2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesports2
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-bein1
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",bein Sport 2 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-bein2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 1 h
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-foxsport1
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 2 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-foxsport2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 3 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-foxsport3
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport3
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Golf 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-golfplus
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-golfplus
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",eGG TV 
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-egg
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-egg
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion  1 id
 https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
@@ -3088,13 +3088,13 @@ https://andriant.net/gretongan/champion1.m3u8
 https://andriant.net/gretongan/champion2.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 1 vidio.com
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6685
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6685
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 2 vidio.com
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6686
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6686
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 3 vidio.com
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6786
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6786
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
 https://cdnmdc1.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
@@ -7209,13 +7209,13 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KOREA TV",K+
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-kplus
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kplus
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KOREA TV",Sony GEM TV
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-sgem
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sgem
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KOREA TV",Sony One
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-sone
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sone
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KOREA TV",SONY ONE ID
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
@@ -7241,7 +7241,7 @@ http://210.210.155.35/session/d36d16c8-cfab-11ea-8f27-8e6d91af841e/uq2663/h/h08/
 ############################################################################################
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",Prambors
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-pramborstv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-pramborstv
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",1 Music Channel 
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
@@ -7341,16 +7341,16 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",Citra Dangdut
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-citradangdut
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-citradangdut
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",iKONSER
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-ikonser
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-ikonser
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",MTV Live
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-mtvlive
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mtvlive
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",Prambors
-https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-pramborstv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-pramborstv
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
