@@ -1047,17 +1047,18 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 
 #############################################################useetv############################################################
 
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",ANTV
 http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INDOSIAR
-https://cdn14jtedge.useetv.com/dass/15/indosiar/chunklist_b894100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-indosiar
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS TV
-https://cdn14jtedge.useetv.com/dass/15/transtv/chunklist_b1344100_sleng_.m3u8 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-transtv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS7
-https://cdn14jtedge.useetv.com/dass/15/trans7/chunklist_b1344100_sleng_.m3u8 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-trans7
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",MNC TV
 http://albitv.online/siarang/aLBiTV/indo/mnctv.m3u8
@@ -1072,67 +1073,59 @@ http://albitv.online/siarang/aLBiTV/indo/global.m3u8
 http://albitv.online/siarang/aLBiTV/indo/inews.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",SCTV
-https://cdn14jtedge.useetv.com/dass/15/sctv/chunklist_b1344100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-sctv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=tvOne
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",METRO TV
-https://cdn14jtedge.useetv.com/dass/15/metrotv/chunklist_b1344100_sleng_.m3u8 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-metrotv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",NET TV
-https://cdn14jtedge.useetv.com/dass/15/net/chunklist_b1344100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-net
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RTV
-https://cdn14jtedge.useetv.com/dass/14/rtv/chunklist_b684100_sleng_.m3u8 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-rtv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",KOMPAS TV
-https://cdn14jtedge.useetv.com/dass/15/kompastv/chunklist_b894100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-kompastv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",BERITA SATU
-https://cdn14jtedge.useetv.com/dass/14/beritasatu/chunklist_b684100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-beritasatu
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INSERT TV
-https://cdn14jtedge.useetv.com/dass/14/insert/chunklist_b684100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-insert
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"group-title="NASIONAL USEETV",IDKU
 https://cdn14jtedge.useetv.com/dass/15/idku/chunklist_b1344100_sleng_.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",Antara TV
-https://cdn14jtedge.useetv.com/dass/14/antara/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",ANTARA TV
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-antara
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JITV
-https://cdn14jtedge.useetv.com/dass/14/jitv/chunklist_b684100_sleng_.m3u8 
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JAK TV
-https://cdn14jtedge.useetv.com/dass/14/jaktv/chunklist_b684100_sleng_.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JTV
-https://cdn14jtedge.useetv.com/dass/14/jtv/chunklist_b684100_sleng_.m3u8 
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",BALI TV
-https://cdn14jtedge.useetv.com/dass/14/balitv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JITV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-jitv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",MYTV
-https://cdn14jtedge.useetv.com/dass/14/mytv/chunklist_b684100_sleng_.m3u8
+https://cdn14jtedge.useetv.com/dass/14/mytv/.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TV EDUKASI
-https://cdn14jtedge.useetv.com/dass/14/tvedukasi/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",BALI TV
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-balitv
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",DAITV
-https://cdn14jtedge.useetv.com/dass/14/daaitv/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JAK TV
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-jaktv
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TV9 NUSANTARA
-https://cdn14jtedge.useetv.com/dass/14/tv9/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",JTV
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-jtv
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TV
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-tvedukasi
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RRI NET
-https://cdn14jtedge.useetv.com/dass/14/rrinet/chunklist_b684100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-rrinet
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",ELJHON TV
 https://cdn14jtedge.useetv.com/dass/14/eljohn/chunklist_b944100_sleng_.m3u8
- 
- 
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
@@ -1140,20 +1133,19 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN INDONESIA
-https://cdn14jtedge.useetv.com/dass/15/cnnindonesia/chunklist_b1344100_sleng_.m3u8 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cnnindonesia
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN International
 
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNBC INDONESIA
-https://cdn14jtedge.useetv.com/dass/15/cnbcindonesia/chunklist_b1344100_sleng_.m3u8 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cnbcindonesia
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TVRI
-https://cdn14jtedge.useetv.com/dass/15/tvri/chunklist_b684100_sleng_.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-tvri
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TVRI HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
@@ -1163,6 +1155,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TVRI BUDAYA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
 
 
 #############################################################NASIONAL############################################################
@@ -4880,10 +4873,10 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 ID
-https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein1
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 ID
-https://cdnmdc1.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",bein Sport 2 ID
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 HD
 
@@ -4892,17 +4885,23 @@ https://cdnmdc1.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc
 
 
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion  1 id
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 
+https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 ID
+https://cdnmdc1.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 1 id
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion1
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 2 id
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion2
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion  1 
 https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion  2 id
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion  2 
 https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion  1
-https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion  2
-https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 1 vidio.com
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6685
@@ -4913,17 +4912,26 @@ https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6686
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 3 vidio.com
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6786
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
-https://cdnmdc1.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 2
-https://cdnmdc1.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",UseeSports 1 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesport
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",UseeSports 2
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesports2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1 id
 https://cdn14jtedge.useetv.com/dass/15/useesport/chunklist_b894100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 2 id
 https://cdn14jtedge.useetv.com/dass/15/useesports2/chunklist_b894100_sleng_.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 1 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 2 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 3 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 1 id
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
