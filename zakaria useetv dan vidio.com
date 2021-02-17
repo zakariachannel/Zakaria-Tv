@@ -2324,16 +2324,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
 ##############################################BEIN SPORT#######################################
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 TH
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 2 TH
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sports Xtra Asia
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 
@@ -2341,6 +2331,12 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sports 1 TH
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sports 2 TH
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 ID
