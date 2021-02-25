@@ -990,10 +990,10 @@ https://ampun.my.id/M3U/206.m3u8
 https://ampun.my.id/M3U/7464.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",Daai TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6482
+https://ampun.my.id/M3U/6482.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",TRANS TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-733
+https://ampun.my.id/M3U/733.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",TRANS7
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-734
