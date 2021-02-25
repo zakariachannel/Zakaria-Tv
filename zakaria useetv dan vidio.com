@@ -996,31 +996,31 @@ https://ampun.my.id/M3U/6482.m3u8
 https://ampun.my.id/M3U/733.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",TRANS7
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-734
+https://ampun.my.id/M3U/734.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",MNC TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-870
+https://ampun.my.id/M3U/870.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RCTI
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-665
+https://ampun.my.id/M3U/665.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",GTV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-778
+https://ampun.my.id/M3U/778.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",INEWS TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-5409
+https://ampun.my.id/M3U/5409.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=tvOne
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",METRO TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-777
+https://ampun.my.id/M3U/777.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",NET TV
 https://ampun.my.id/M3U/875.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RAJAWALI TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-1561
+https://ampun.my.id/M3U/1561.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RTV
 https://ampun.my.id/M3U/1561.m3u8
