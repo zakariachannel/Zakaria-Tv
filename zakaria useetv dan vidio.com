@@ -1181,79 +1181,75 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 #############################################################NASIONAL############################################################
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",ANTV
-http://albitv.online/siarang/aLBiTV/indo/antv.m3u8
+http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INDOSIAR
-http://albitv.online/siarang/aLBiTV/indo/indosiar.m3u8
+http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=Indosiar
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",AJWA TV
+
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TRANS TV
-http://albitv.online/siarang/aLBiTV/indo/transtv.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TRANS7
-http://albitv.online/siarang/aLBiTV/indo/trans7.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNC TV HD
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNC TV
+http://albitv.online/siarang/aLBiTV/indo/mnctv.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNC TV SD
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI
+http://albitv.online/siarang/aLBiTV/indo/rcti.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI HD
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV
+http://albitv.online/siarang/aLBiTV/indo/global.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI SD
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV HD
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV SD
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS TV SD
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS TV  HD
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS TV 1 HD
-http://nonton.wap.sh/id/008.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS TV
+http://albitv.online/siarang/aLBiTV/indo/inews.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",SCTV
-http://albitv.online/siarang/aLBiTV/indo/sctv.m3u8
- 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TV ONE 1
-http://albitv.online/siarang/aLBiTV/indo/tvone.m3u8
+http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=SCTV
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TV ONE 2
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=tvOne
- 
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",METRO TV
-http://albitv.online/siarang/aLBiTV/indo/metro.m3u8
- 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV
 http://albitv.online/siarang/aLBiTV/indo/net.m3u8
- 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV SD
-http://103.47.132.164/PLTV/88888888/224/3221227101/03.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RTV
 http://albitv.online/siarang/aLBiTV/indo/rtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",KOMPAS TV
 http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
- 
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",BERITA SATU
-http://nonton.wap.sh/id/015.m3u8
- 
+http://albitv.online/siarang/aLBiTV/indo/beritasatu.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",CNN INDONESIA HD
+http://albitv.online/siarang/aLBiTV/indo/cnn.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"  group-title="NASIONAL", CNN Indonesia HD Backup
+
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",CNN INDONESIA
-http://nonton.wap.sh/id/016.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",CNN International
+
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",CNBC INDONESIA
-http://nonton.wap.sh/id/017.m3u8
+http://albitv.online/siarang/aLBiTV/indo/cnbc.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",Jakarta Globe News
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TVRI
-http://nonton.wap.sh/id/018.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
 
 #############################################################NASIONAL BACKUP############################################################
 
