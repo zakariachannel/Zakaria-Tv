@@ -1026,22 +1026,22 @@ https://ampun.my.id/M3U/1561.m3u8
 https://ampun.my.id/M3U/1561.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",MYTV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6711
+https://ampun.my.id/M3U/6711.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",O Shop
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6166
+https://ampun.my.id/M3U/6166.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",Jaktv
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-5415
+https://ampun.my.id/M3U/5415.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",Nusantara TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-7432
+https://ampun.my.id/M3U/7432.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",KOMPAS TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-874
+https://ampun.my.id/M3U/874.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",BERITA SATU
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6165
+https://ampun.my.id/M3U/6165.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",CNN INDONESIA HD
 http://albitv.online/siarang/aLBiTV/indo/cnn.m3u8
