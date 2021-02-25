@@ -887,87 +887,97 @@ http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
 http://185.238.0.145:1313/c/max/hi-hd.m3u8
 
 #############################################################VIDIO############################################################
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/rtv.png" group-title="NASIONAL_VIDIO",RTV
-https://ampun.my.id/M3U
-/rtv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",ANTV
+http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="NASIONAL_VIDIO",TV Edukasi
-https://ampun.my.id/M3U/tvedukasi.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",INDOSIAR
+https://ampun.my.id/M3U/205.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/mytv.png" group-title="NASIONAL_VIDIO",MyTV
-https://ampun.my.id/M3U/mytv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",SCTV
+https://ampun.my.id/M3U/204.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/sctv.png" group-title="NASIONAL_VIDIO",SCTV
-https://ampun.my.id/M3U/sctv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO", O Channel
+https://ampun.my.id/M3U/206.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/dwtv.png" group-title="NASIONAL_VIDIO",DW
-https://ampun.my.id/M3U/dwtv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",AJWA TV
+https://ampun.my.id/M3U/7464.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",Daai TV
+https://ampun.my.id/M3U/6482.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/ntv.png" group-title="NASIONAL_VIDIO",NTV
-https://ampun.my.id/M3U/ntv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",TRANS TV
+https://ampun.my.id/M3U/733.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/indosiar.png" group-title="NASIONAL_VIDIO",INDOSIAR
-https://ampun.my.id/M3U/indosiar.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",TRANS7
+https://ampun.my.id/M3U/734.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/ochannel.png" group-title="NASIONAL_VIDIO",O-Chanel
-https://ampun.my.id/M3U/ochannel.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",MNC TV
+https://ampun.my.id/M3U/870.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/kompastv.png" group-title="NASIONAL_VIDIO",Kompas TV
-https://ampun.my.id/M3U/kompastv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",RCTI
+https://ampun.my.id/M3U/665.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/beritasatu.png" group-title="NASIONAL_VIDIO",Berita Satu
-https://ampun.my.id/M3U/beritasatu.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",GTV
+https://ampun.my.id/M3U/778.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/metrotv.png" group-title="NASIONAL_VIDIO",Metro TV
-https://ampun.my.id/M3U/metrotv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",INEWS TV
+https://ampun.my.id/M3U/5409.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/transtv.png" group-title="NASIONAL_VIDIO",Trans TV
-https://ampun.my.id/M3U/transtv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=tvOne
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/rcti.png" group-title="NASIONAL_VIDIO",RCTI
-https://ampun.my.id/M3U/rcti.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",METRO TV
+https://ampun.my.id/M3U/777.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/trans7.png" group-title="NASIONAL_VIDIO",Trans7
-https://ampun.my.id/M3U/trans7.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",NET TV
+https://ampun.my.id/M3U/875.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/mnctv.png" group-title="NASIONAL_VIDIO",MNCTV
-https://ampun.my.id/M3U/mnctv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",RAJAWALI TV
+https://ampun.my.id/M3U/1561.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/jaktv.png" group-title="NASIONAL_VIDIO",JAK TV
-https://ampun.my.id/M3U/jaktv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",RTV
+https://ampun.my.id/M3U/1561.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/gtv.png" group-title="NASIONAL_VIDIO",GTV
-https://ampun.my.id/M3U/gtv.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",MYTV
+https://ampun.my.id/M3U/6711.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/net.png" group-title="NASIONAL_VIDIO",NET TV
-https://ampun.my.id/M3U/net.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",O Shop
+https://ampun.my.id/M3U/6166.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/inews.png" group-title="NASIONAL_VIDIO",I-News
-https://ampun.my.id/M3U/inews.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",Jaktv
+https://ampun.my.id/M3U/5415.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/oshop.png" group-title="NASIONAL_VIDIO",O SHop
-https://ampun.my.id/M3U/oshop.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",Nusantara TV
+https://ampun.my.id/M3U/7432.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/tvri.png" group-title="NASIONAL_VIDIO",TVRI
-https://ampun.my.id/M3U/tvri.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",KOMPAS TV
+https://ampun.my.id/M3U/874.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/uchannel.png" group-title="NASIONAL_VIDIO",U Channel
-https://ampun.my.id/M3U/uchannel.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",BERITA SATU
+https://ampun.my.id/M3U/6165.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/reformed21.png" group-title="NASIONAL_VIDIO",Refomed 21
-https://ampun.my.id/M3U/reformed21.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",CNN INDONESIA HD
+http://albitv.online/siarang/aLBiTV/indo/cnn.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/alquran.png" group-title="NASIONAL_VIDIO",Al quran
-https://ampun.my.id/M3U/alquran.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/daaitv.png" group-title="NASIONAL_VIDIO",DAAI TV
-https://ampun.my.id/M3U/daaitv.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"  group-title="NASIONAL_VIDIO", CNN Indonesia HD Backup
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/ajwatv.png" group-title="NASIONAL_VIDIO",Ajwa TV 
-https://ampun.my.id/M3U/ajwatv.m3u8
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/vidioent.png" group-title="NASIONAL_VIDIO",Vidio Entertaiment
-https://ampun.my.id/M3U/vidio_ent.m3u8
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",CNN INDONESIA
+
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",CNN International
+
+ 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",CNBC INDONESIA
+http://albitv.online/siarang/aLBiTV/indo/cnbc.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",Jakarta Globe News
+
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
 #############################################################VIDIO############################################################
 
 
