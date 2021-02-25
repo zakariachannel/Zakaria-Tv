@@ -2187,13 +2187,13 @@ https://andriant.net/gretongan/champion1.m3u8
 https://andriant.net/gretongan/champion2.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 1 vidio.com
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6685
+http://ampun.my.id/premi/6685.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 2 vidio.com
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6686
+http://ampun.my.id/premi/6686.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 3 vidio.com
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6786
+http://ampun.my.id/premi/6786.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
 https://cdnmdc1.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
