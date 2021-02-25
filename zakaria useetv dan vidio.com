@@ -978,16 +978,16 @@ http://185.238.0.145:1313/c/max/hi-hd.m3u8
 http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",INDOSIAR
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-205
+https://ampun.my.id/M3U/205.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",SCTV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-204
+https://ampun.my.id/M3U/204.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO", O Channel
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-206
+https://ampun.my.id/M3U/206.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",AJWA TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-7464
+https://ampun.my.id/M3U/7464.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",Daai TV
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6482
@@ -1017,13 +1017,13 @@ http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-777
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",NET TV
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-875
+https://ampun.my.id/M3U/875.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RAJAWALI TV
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-1561
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",RTV
-http://albitv.online/siarang/aLBiTV/indo/rtv.m3u8
+https://ampun.my.id/M3U/1561.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL VIDIO",MYTV
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6711
@@ -1217,7 +1217,7 @@ http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV
-http://albitv.online/siarang/aLBiTV/indo/net.m3u8
+https://ampun.my.id/M3U/875.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RTV
 http://albitv.online/siarang/aLBiTV/indo/rtv.m3u8
