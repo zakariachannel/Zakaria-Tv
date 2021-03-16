@@ -2423,7 +2423,155 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
 
-##############################################BEIN#######################################
+##############################################BEIN NEW#######################################
+
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AU beIN Sports 1
+http://supersonictv.live:25461/903310/034806/13842
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AU beIN Sports 1
+http://supersonictv.live:25461/903310/034806/13843
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AU beIN Sports 2
+http://supersonictv.live:25461/903310/034806/13844
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AU beIN Sports 2
+http://supersonictv.live:25461/903310/034806/13845
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AU beIN Sports 3
+http://supersonictv.live:25461/903310/034806/13846
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | bein sport HD
+http://supersonictv.live:25461/903310/034806/73540
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beINsport HD
+http://supersonictv.live:25461/903310/034806/73541
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | bein sport UHD
+http://supersonictv.live:25461/903310/034806/73542
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport1 HD
+http://supersonictv.live:25461/903310/034806/73543
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport1 HD+
+http://supersonictv.live:25461/903310/034806/73544
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport2 HD
+http://supersonictv.live:25461/903310/034806/73545
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport2 HD+
+http://supersonictv.live:25461/903310/034806/73546
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport4 HD
+http://supersonictv.live:25461/903310/034806/73547
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport4 HD+
+http://supersonictv.live:25461/903310/034806/73548
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport5 HD
+http://supersonictv.live:25461/903310/034806/73549
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport5 HD+
+http://supersonictv.live:25461/903310/034806/73550
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport6 hd
+http://supersonictv.live:25461/903310/034806/73551
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport6 HD+
+http://supersonictv.live:25461/903310/034806/73552
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport7 HD
+http://supersonictv.live:25461/903310/034806/73553
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport7 HD+
+http://supersonictv.live:25461/903310/034806/73554
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport8 HD
+http://supersonictv.live:25461/903310/034806/73555
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport8 HD+
+http://supersonictv.live:25461/903310/034806/73556
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport9 HD
+http://supersonictv.live:25461/903310/034806/73557
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport9 HD+
+http://supersonictv.live:25461/903310/034806/73558
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT10 HD
+http://supersonictv.live:25461/903310/034806/73559
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport10 HD+
+http://supersonictv.live:25461/903310/034806/73560
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport1
+http://supersonictv.live:25461/903310/034806/73561
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport2
+http://supersonictv.live:25461/903310/034806/73562
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport4
+http://supersonictv.live:25461/903310/034806/73563
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport5
+http://supersonictv.live:25461/903310/034806/73564
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport6
+http://supersonictv.live:25461/903310/034806/73565
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport7
+http://supersonictv.live:25461/903310/034806/73566
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport8
+http://supersonictv.live:25461/903310/034806/73567
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | BeIN Sport9
+http://supersonictv.live:25461/903310/034806/73568
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN Sport10
+http://supersonictv.live:25461/903310/034806/73569
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-1 4K
+http://supersonictv.live:25461/903310/034806/73592
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-2 4K
+http://supersonictv.live:25461/903310/034806/73593
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-3 4K
+http://supersonictv.live:25461/903310/034806/73594
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-4 4K
+http://supersonictv.live:25461/903310/034806/73595
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-5 4K
+http://supersonictv.live:25461/903310/034806/73596
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-6 4K
+http://supersonictv.live:25461/903310/034806/73597
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-7 4K
+http://supersonictv.live:25461/903310/034806/73598
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-8 4K
+http://supersonictv.live:25461/903310/034806/73599
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-9 4K
+http://supersonictv.live:25461/903310/034806/73600
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-10 4K
+http://supersonictv.live:25461/903310/034806/73601
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-11 4K
+http://supersonictv.live:25461/903310/034806/73602
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-12 4K
+http://supersonictv.live:25461/903310/034806/73603
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BS | beIN SPORT-13 4K
+http://supersonictv.live:25461/903310/034806/73604
+
+
+##############################################BEIN NEW#######################################
 
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",----------- BEIN SPORT HD -----------
