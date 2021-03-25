@@ -2417,16 +2417,16 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://54.39.16.34:8080/thomas.gustavsen@gmail.com/k5caNrhEv6/2662?token=SxBdUUtREAJDAwNRUwAKAwdUBwxdA1MEUFBeBFVTAlRUBwIFDAwFWVUVTUZBQEEEUQtvUQEQDFMFB1QfQ0RHAEJtXFQaAxAJUwZUUxAYERVZC1UaXwMAUQYEVQVZBQVJEkJcVBoDEAFSAVBGHhZWGUQDQlYEXmkFVkcPUAQTDgtFXlkcGlZcZwVSDAVcUBFbElcSFEdbRRERCwhGDV0YR1JbQUJZTVcaWxVQUgUCEU0SBV9NC0ZEGBELRHolExhHVUpBVVZKW1cPFVtGRkcRTRIPQ2cXV0UVQVQHXgRDFl8SAhccGlRTQD5UDgpcUVAVWQleS0cIFFARHUReDl9dEV9AakBRXRACQwZZUwQCERw=
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 1 (backup)
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 2 (backup)
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 3 (backup)
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 4 (backup)
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",BT SPORT 1
 http://rv.therevenge.co:80/477846155654/477846155654/79978?checkedby:hlscat.com
