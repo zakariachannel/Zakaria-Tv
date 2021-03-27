@@ -887,6 +887,92 @@ http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
 http://185.238.0.145:1313/c/max/hi-hd.m3u8
 
 #############################################################VIDIO############################################################
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/rtv.png" group-title="LOKAL VIDIO",RTV
+http://tv.zakariachannel.my.id//M3U/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="LOKAL VIDIO",TV Edukasi
+http://tv.zakariachannel.my.id//M3U/tvedukasi.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/mytv.png" group-title="LOKAL VIDIO",MyTV
+http://tv.zakariachannel.my.id//M3U/mytv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/sctv.png" group-title="LOKAL VIDIO",SCTV
+http://tv.zakariachannel.my.id//M3U/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/dwtv.png" group-title="LOKAL VIDIO",DW
+http://tv.zakariachannel.my.id//M3U/dwtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/ntv.png" group-title="LOKAL VIDIO",NTV
+http://tv.zakariachannel.my.id//M3U/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/indosiar.png" group-title="LOKAL VIDIO",INDOSIAR
+http://tv.zakariachannel.my.id//M3U/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/ochannel.png" group-title="LOKAL VIDIO",O-Chanel
+http://tv.zakariachannel.my.id//M3U/ochannel.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/kompastv.png" group-title="LOKAL VIDIO",Kompas TV
+http://tv.zakariachannel.my.id//M3U/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/beritasatu.png" group-title="LOKAL VIDIO",Berita Satu
+http://tv.zakariachannel.my.id//M3U/beritasatu.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/metrotv.png" group-title="LOKAL VIDIO",Metro TV
+http://tv.zakariachannel.my.id//M3U/metrotv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/transtv.png" group-title="LOKAL VIDIO",Trans TV
+http://tv.zakariachannel.my.id//M3U/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/rcti.png" group-title="LOKAL VIDIO",RCTI
+http://tv.zakariachannel.my.id//M3U/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/trans7.png" group-title="LOKAL VIDIO",Trans7
+http://tv.zakariachannel.my.id//M3U/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/mnctv.png" group-title="LOKAL VIDIO",MNCTV
+http://tv.zakariachannel.my.id//M3U/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/jaktv.png" group-title="LOKAL VIDIO",JAK TV
+http://tv.zakariachannel.my.id//M3U/jaktv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/gtv.png" group-title="LOKAL VIDIO",GTV
+http://tv.zakariachannel.my.id//M3U/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/net.png" group-title="LOKAL VIDIO",NET TV
+http://tv.zakariachannel.my.id//M3U/net.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/inews.png" group-title="LOKAL VIDIO",I-News
+http://tv.zakariachannel.my.id//M3U/inews.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/oshop.png" group-title="LOKAL VIDIO",O SHop
+http://tv.zakariachannel.my.id//M3U/oshop.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/tvri.png" group-title="LOKAL VIDIO",TVRI
+http://tv.zakariachannel.my.id//M3U/tvri.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/uchannel.png" group-title="LOKAL VIDIO",U Channel
+http://tv.zakariachannel.my.id//M3U/uchannel.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/reformed21.png" group-title="LOKAL VIDIO",Refomed 21
+http://tv.zakariachannel.my.id//M3U/reformed21.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/alquran.png" group-title="LOKAL VIDIO",Al quran
+http://tv.zakariachannel.my.id//M3U/alquran.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/daaitv.png" group-title="LOKAL VIDIO",DAAI TV
+http://tv.zakariachannel.my.id//M3U/daaitv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/ajwatv.png" group-title="LOKAL VIDIO",Ajwa TV 
+http://tv.zakariachannel.my.id//M3U/ajwatv.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/vidioent.png" group-title="LOKAL VIDIO",Vidio Entertaiment
+http://tv.zakariachannel.my.id//M3U/vidio_ent.m3u8
+
+
+#############################################################VIDIO############################################################
+
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL_VIDIO",ANTV
 http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 
