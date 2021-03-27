@@ -2511,6 +2511,31 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
 ##############################################BEIN NEW#######################################
 
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT
+http://bazarhd.online:80/307210133711/307210133711/164050
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 1
+http://bazarhd.online:80/307210133711/307210133711/164050
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 2
+http://bazarhd.online:80/307210133711/307210133711/164047
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 3
+http://bazarhd.online:80/307210133711/307210133711/164044
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 4
+http://bazarhd.online:80/307210133711/307210133711/164041
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 5
+http://bazarhd.online:80/307210133711/307210133711/164038
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 6
+http://bazarhd.online:80/307210133711/307210133711/164035
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 7
+http://bazarhd.online:80/307210133711/307210133711/164032
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 8
+http://bazarhd.online:80/307210133711/307210133711/78630
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 9
+http://bazarhd.online:80/307210133711/307210133711/78629
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT 10
+http://bazarhd.online:80/307210133711/307210133711/78628
+
+##############################################BEIN NEW#######################################
+
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AU beIN Sports 1
 http://supersonictv.live:25461/903310/034806/13842
