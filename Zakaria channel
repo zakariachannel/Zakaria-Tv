@@ -2523,6 +2523,28 @@ http://rv.therevenge.co:80/live/690163211305111/690163211305111/163928.m3u8
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports Premium 3 HD
 http://rv.therevenge.co:80/live/690163211305111/690163211305111/163927.m3u8
 
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports HD1 HD
+http://rv.therevenge.co:80/live/690163211305111/690163211305111/163926.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports HD2 HD
+http://rv.therevenge.co:80/live/690163211305111/690163211305111/163925.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports HD3 HD
+http://rv.therevenge.co:80/live/690163211305111/690163211305111/163924.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports HD4 HD
+http://rv.therevenge.co:80/live/690163211305111/690163211305111/163923.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports HD5 HD
+http://rv.therevenge.co:80/live/690163211305111/690163211305111/163922.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports HD6 HD
+http://rv.therevenge.co:80/live/690163211305111/690163211305111/163921.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports HD7 HD
+http://rv.therevenge.co:80/live/690163211305111/690163211305111/163920.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEINS SPORTS 1 UHD
 http://rv.therevenge.co:80/live/690163211305111/690163211305111/78637.m3u8
 
