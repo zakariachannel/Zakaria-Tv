@@ -589,6 +589,13 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 #EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="NINMEDIA",MADU TV
 http://stream1.ninmedia.tv:1935/madutv/udp.stream_360p/chunklist_w387942083.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="NINMEDIA",MADUTV
+https://v3.siar.us/madutv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="NINMEDIA",Digdaya tv
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="NINMEDIA",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w478007809.m3u8
 
