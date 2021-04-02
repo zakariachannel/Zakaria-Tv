@@ -3613,6 +3613,27 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Eurosport 1
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Skynet Sport HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Skynet Sport 1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Skynet Sport 2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Skynet Sport 3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Skynet Sport 4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Skynet Sport 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Skynet Sport 6
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",True Sport HD1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 
