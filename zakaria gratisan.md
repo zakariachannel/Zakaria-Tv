@@ -2053,30 +2053,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
 ##############################################BEIN SPORT#######################################
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 7 HD²
-http://rv.therevenge.co:80/307213231550/307213231550/78594
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 8 HD²
-http://rv.therevenge.co:80/307213231550/307213231550/78593
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 9 HD²
-http://rv.therevenge.co:80/307213231550/307213231550/78592
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 10 HD²
-http://rv.therevenge.co:80/307213231550/307213231550/78591
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 11 HD²
-http://rv.therevenge.co:80/307213231550/307213231550/78590
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 12 HD²
-http://rv.therevenge.co:80/307213231550/307213231550/78589
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 13 HD²
-http://rv.therevenge.co:80/307213231550/307213231550/78588
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",----------- |AR| BEIN AFRICA  -------------
-http://rv.therevenge.co:80/307213231550/307213231550/78584
-
 
 ##############################################BEIN SPORT New#######################################
 
