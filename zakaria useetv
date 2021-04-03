@@ -50,6 +50,31 @@ https://fikrulmkc.my.id/bagus/usee-idku.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Lokal", indi shopping 
 https://fikrulmkc.my.id/bagus/usee-indishopping.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",Champions TV 1
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-champion1
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions2.png" group-title="Sports",Champions TV 2
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-champion2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",Bein Sport 1
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-bein1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",Bein Sport 2
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-bein2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",Fox Sport 1
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-foxsport1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",Fox Sport 2
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-foxsport2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",Fox Sport 3
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-foxsport3
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sports",UseeSports 1
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-useesport
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",UseeSports 2
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-useesports2
+#EXTINF:0 tvg-id="Golf.es" group-title="https://mantul.org/logo/champions2.png",Golf
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-golfplus
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",NBA
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-nba
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Sports",eGG TV
+https://home-tv.web.id/kicau/yamkode_jago_maling_playlist.m3u8?channel=usee-egg
+
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/logo/bein1.png" group-title="Sports",Bein Sport 1 
 https://fikrulmkc.my.id/bagus/usee-bein1.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/logo/bein1.png" group-title="Sports",bein Sport 2 
