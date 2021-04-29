@@ -1277,19 +1277,19 @@ http://albitv.online/siarang/aLBiTV/indo/trans7.m3u8
 
 ###############################METUBE#####################################
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"NASIONAL",RCTI (METUBE)
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI (METUBE)
 https://cdn-livetv-studio.metube.id/rcti.m3u8
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"NASIONAL",MNCTV (METUBE)
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNCTV (METUBE)
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"NASIONAL",GTV (METUBE)
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV (METUBE)
 https://cdn-livetv-studio.metube.id/globaltv.m3u8
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"NASIONAL",MNCSHOP (METUBE)
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNCSHOP (METUBE)
 https://cdn-livetv-studio.metube.id/mncshop.m3u8
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"NASIONAL",INEWS (METUBE)
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS (METUBE)
 https://cdn-livetv-studio.metube.id/inewstv.m3u8
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"NASIONAL",MNCNEWS (METUBE)
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNCNEWS (METUBE)
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg"NASIONAL",IDX (METUBE)
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",IDX (METUBE)
 https://cdn-livetv-studio.metube.id/idxchannel.m3u8
 
 ###############################METUBE#####################################
