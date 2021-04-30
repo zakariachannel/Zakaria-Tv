@@ -2537,61 +2537,57 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
 ##############################################BEIN NEW#######################################
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 1 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14980
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 1 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14981
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 2 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14982
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 2 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14983
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 (Premium) 
+http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 3 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14984
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 3 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14985
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 2 (Premium)  
+http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 4 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14986
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 4 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14987
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 3 (Premium) 
+http://144.217.253.140/beinsport3/tracks-v1a1/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 5 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14988
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 5 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14989
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 4 (Premium)  
+http://144.217.253.140/beinsport4/tracks-v1a1/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 6 HD
-http://clientportal.link:80//bN7sAotyi489/7SwXiT2760/14990
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sport 1 HD
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/100.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 6 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14991
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 2 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/101.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 7 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14992
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 3 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/102.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 7 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14993
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 4 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/103.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 8 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14994
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 8 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14995
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 5 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/104.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 9 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14996
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 9 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14997
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 6 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/105.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 10 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14998
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 10 SD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14999
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 11 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/15000
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 12 HD
-http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/15001
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 7 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/106.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 8 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/107.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sport 9 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/108.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 10 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/109.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 11 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/110.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 12 HD 
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/111.m3u8
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",AR: Bein Sports 13 HD
+http://iptvtree.net:8080///live/766a3d10/WBkYyKsP3qPzc9Ne/112.m3u8
 
 ##############################################BEIN NEW#######################################
 
@@ -2667,6 +2663,65 @@ http://rv.therevenge.co:80/live/690163211305111/690163211305111/78626.m3u8
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",|AR| BEIN SPORTS 13 UHD
 http://rv.therevenge.co:80/live/690163211305111/690163211305111/78625.m3u8
+
+##############################################BEIN LAMA#######################################
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 1 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14980
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 1 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14981
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 2 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14982
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 2 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14983
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 3 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14984
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 3 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14985
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 4 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14986
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 4 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14987
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 5 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14988
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 5 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14989
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 6 HD
+http://clientportal.link:80//bN7sAotyi489/7SwXiT2760/14990
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 6 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14991
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 7 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14992
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 7 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14993
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 8 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14994
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 8 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14995
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 9 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14996
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 9 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14997
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 10 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14998
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 10 SD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/14999
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 11 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/15000
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",beIN SPORTS 12 HD
+http://clientportal.link:80/bN7sAotyi489/7SwXiT2760/15001
+
 
 ##############################################BEIN NEW#######################################
 
@@ -5311,7 +5366,28 @@ https://home-tv.web.id/kicau/http_mag_you24_online.m3u8?channel=usee-bein2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 HD
 
+#####################################CHANNEL NEW###################################
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champions TV 1
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=champion1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champions TV 2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=champion2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Usee Sports 1
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesport
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Usee Sports 2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesports2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 1 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport3
+
+#####################################CHANNEL NEW###################################
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 
 https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
