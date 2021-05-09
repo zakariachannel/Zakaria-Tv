@@ -2535,58 +2535,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
 
-##############################################BEIN NEW#######################################
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BEIN SPORT NEWS
-http://62.210.251.227:8081/yacinetv/BeinSportNews/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports Extra 1
-http://1.alhawalouh.xyz:80/live/500025558/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports Extra 2
-http://1.alhawalouh.xyz:80/live/5151400337/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 (Premium)
-http://3.alhawalouh.xyz/live/88824257/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 2 (Premium)
-http://1.alhawalouh.xyz:80/live/79481245/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 3 (Premium) 
-http://2.alhawalouh.xyz:80/live/17988558/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 french
-http://1.adrawayoun.xyz:80/live/103/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 2 french
-http://1.adrawayoun.xyz:80/live/104/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 3 french
-http://1.adrawayoun.xyz:80/live/105/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1
-http://3.alhawalouh.xyz:80/live/978488877/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 2
-http://2.alhawalouh.xyz:80/live/10011244/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 3
-http://1.alhawalouh.xyz:80/live/161988840/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 4
-http://3.alhawalouh.xyz/live/0103088447/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 5
-http://3.alhawalouh.xyz:80/live/115451004/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 6
-http://1.alhawalouh.xyz:80/live/788550011/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 7
-http://2.alhawalouh.xyz:80/live/100666696/index.m3u8
-
-##############################################BEIN NEW#######################################
-
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 (Premium) 
 http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
